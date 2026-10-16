@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-16T21:14:54+08:00",
+  "syncedAt": "2026-10-16T21:52:08+08:00",
   "upstreamCommit": "8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf",
   "upstreamUpdatedAt": "2026-10-14T11:59:57Z",
   "upstreamUrl": "https://github.com/hust-open-atom-club/open-source-deadlines",
@@ -9,14 +9,14 @@
       "url": "https://codeforces.com/api/contest.list?gym=false",
       "status": "ok",
       "count": 3,
-      "fetchedAt": "2026-10-16T21:14:53+08:00"
+      "fetchedAt": "2026-10-16T21:52:07+08:00"
     },
     {
       "key": "atcoder",
       "url": "https://atcoder.jp/contests/",
       "status": "ok",
       "count": 8,
-      "fetchedAt": "2026-10-16T21:14:54+08:00"
+      "fetchedAt": "2026-10-16T21:52:08+08:00"
     }
   ],
   "items": [
@@ -53,7 +53,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "ccfchinaosc2025",
@@ -87,7 +88,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "ccfchinaosc2024",
@@ -121,7 +123,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "clk2024",
@@ -156,7 +159,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "coc-asia-2025",
@@ -190,7 +194,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "ubuconasia2025",
@@ -253,7 +258,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openatom-open-source-eco-conf-2025",
@@ -287,7 +293,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "vueconf-2025",
@@ -320,7 +327,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "rustchinaconf-2025",
@@ -363,7 +371,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "ysyx2025-summer-press-conference",
@@ -393,7 +402,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "gosim-hangzhou-2025",
@@ -427,7 +437,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "apsara-2025",
@@ -455,7 +466,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openkylin-developer-2025",
@@ -484,7 +496,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openharmony-tech-conf-2025",
@@ -512,7 +525,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "flagos-dev-conference-2025",
@@ -547,7 +561,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "pycon-china-2025",
@@ -577,7 +592,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "coscon-2025",
@@ -605,7 +621,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openvela-gdc-2025",
@@ -633,7 +650,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openEuler-summit-2025",
@@ -677,7 +695,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "gotc-ai-edu-2025",
@@ -706,7 +725,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "dduc-wuhan-2025",
@@ -739,7 +759,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "PaddlePaddle-Starter-2026spring",
@@ -768,7 +789,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "PaddlePaddle-hackathon-10th-spring",
@@ -797,7 +819,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "PaddlePaddle-Starter-6th",
@@ -826,7 +849,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "PaddlePaddle-hackathon-9th",
@@ -855,7 +879,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "gitlink-summer-camp-2025",
@@ -894,7 +919,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "ospp2025",
@@ -924,7 +950,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "ospp2024",
@@ -954,7 +981,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "gsoc2025",
@@ -1029,7 +1057,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "nscscc-cpu-2025",
@@ -1060,7 +1089,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "trotp2025",
@@ -1105,7 +1135,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "gondc2025",
@@ -1155,7 +1186,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "cpipc2",
@@ -1209,7 +1241,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "coc-na-2025",
@@ -1249,7 +1282,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "oh-competition-2025",
@@ -1293,7 +1327,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "oh-media-2025",
@@ -1348,7 +1383,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "vivo-os-2025",
@@ -1403,7 +1439,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "opencamp-2025",
@@ -1433,7 +1470,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "cie-riscv-2025",
@@ -1464,7 +1502,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "qemu-camp-2025",
@@ -1498,7 +1537,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "rt-thread-software-2025",
@@ -1542,7 +1582,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "riscv-openharmony-ai-dev-competition-2025",
@@ -1572,7 +1613,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "optcup-harmony-innovation-2025",
@@ -1600,7 +1642,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "open-source-gpu-innovation-2025",
@@ -1630,7 +1673,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "open-atom-contest-openloong-2025",
@@ -1659,7 +1703,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "jhun-opensource-agent-dev-2025",
@@ -1699,7 +1744,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "costrict-campus-innovation-2025",
@@ -1737,31 +1783,35 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "PaddlePaddleInternship2026",
-      "title": "【实习招募】飞桨 AI Infra 正式实习生招募（长期 / 高含金量项目）",
-      "description": "该项目面向对 大模型训练、分布式系统、AI 编译器、高性能计算、系统工程 等方向有强烈兴趣的开发者与在校同学，采用真实核心项目制 + 双导师制培养模式，深度参与飞桨核心研发工作。实习生通过简历筛选 + 笔试任务评估 + 技术面试后，以线下实习的形式长期深度参与飞桨开源项目开发，项目成果将通过 PR（Pull Request） 方式贡献至飞桨官方仓库，实习周期 不少于 3 个月（部分课题要求 6 个月及以上），优秀同学有转正机会与官方实习证明。",
+      "title": "飞桨 AI Infra 实习招募（状态待核实）",
+      "description": "涉及大模型训练、分布式系统、AI 编译器与算子优化的线下实习。原公告写有长期有效，但对应 GitHub Issue 已关闭，当前是否仍接收申请尚不能确认。",
       "category": "activity",
       "tags": [
         "实习招募",
-        "线下实习"
+        "AI Infra",
+        "待核实"
       ],
-      "date": "2026年1月4日起长期招募",
-      "place": "线上",
-      "timezone": "Asia/Shanghai",
       "link": "https://github.com/PaddlePaddle/Paddle/issues/77190",
+      "sourceUrl": "https://github.com/PaddlePaddle/Paddle/issues/77190",
+      "sourceName": "飞桨官方仓库招募公告",
+      "verifiedOn": "2026-10-16",
+      "timezone": "Asia/Shanghai",
+      "place": "北京 / 上海 · 线下（按项目）",
+      "date": "原公告自 2026 年 1 月 4 日发布",
+      "availability": "needs_verification",
+      "statusNote": "公告正文“长期有效”与 Issue 的 Closed 状态存在冲突，需向发布方确认，不按“正在招募”展示。",
       "timeline": [
         {
           "at": "2026-01-04T00:00:00+08:00",
-          "dayOnly": false,
-          "comment": "活动开始"
+          "dayOnly": true,
+          "comment": "原招募公告发布"
         }
-      ],
-      "sourceName": "Open Source Deadlines 社区收录",
-      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      ]
     },
     {
       "id": "tencentopensource2025",
@@ -1785,7 +1835,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "xingyuandajiangtang-ai2025",
@@ -1814,7 +1865,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openeulersigarmmeetup-shenzhen2025",
@@ -1844,7 +1896,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "opencampdocker2025",
@@ -1874,7 +1927,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openvelabeijing2025",
@@ -1903,7 +1957,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "spacemitopenkylin250703",
@@ -1933,7 +1988,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openkylinmeetup-hku2025",
@@ -1962,7 +2018,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openkylinmeetup-cityuhk2025",
@@ -1991,7 +2048,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "opencamp-infinitensor-2025summer",
@@ -2036,7 +2094,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "opensourcemeetyu-2",
@@ -2064,7 +2123,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "risc-v-days-beijing-2025",
@@ -2092,7 +2152,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openharmony-salon-shenzhen-2025",
@@ -2122,7 +2183,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "opencamp-rust-compiler-2025autumn",
@@ -2166,7 +2228,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openharmony-salon-beijing-2025",
@@ -2196,7 +2259,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "whlug-8-2025",
@@ -2225,7 +2289,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openeuler-sig-long-meetup-beijing-2025",
@@ -2254,7 +2319,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "vllm-meetup-shanghai-2025",
@@ -2283,7 +2349,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "vllm-meetup-深圳-2025",
@@ -2312,7 +2379,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openeuler-diverse-computing-meetup-beijing-2025",
@@ -2341,7 +2409,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "tidb-xian-2025",
@@ -2375,7 +2444,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "chitu-first-meetup-2025",
@@ -2404,7 +2474,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "ai-salon-chengdu-2025",
@@ -2433,7 +2504,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "open-saturday-2025",
@@ -2473,7 +2545,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "ccf-open-source-college-HLJUST-2025",
@@ -2502,7 +2575,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openGauss-Meetup-2025-Chengdu",
@@ -2531,7 +2605,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openGauss-openEuler-Meetup-2025-Xian",
@@ -2562,7 +2637,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openEuler-middleware-Meetup-2025-Wuhan",
@@ -2591,7 +2667,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openvela-shanghai-salon",
@@ -2621,7 +2698,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "ccf-open-source-tour-2025",
@@ -2659,7 +2737,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "ccf-open-source-tour-shenzhen-2025",
@@ -2707,7 +2786,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "ai-game-open-source-2025",
@@ -2736,7 +2816,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "open-ai-infra-forum-cncc-2025",
@@ -2766,7 +2847,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "deepin-gitcode-meetup-2025",
@@ -2795,7 +2877,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openEuler-compiler-sig-Meetup-2025-Beijing",
@@ -2824,7 +2907,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "gitcode-opensource-sichuan-swpu-2025",
@@ -2853,7 +2937,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openEuler-embodied-intelligence-Meetup-2025-Xian",
@@ -2882,7 +2967,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "huawei-opensource-oseco-5th-2025",
@@ -2911,7 +2997,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openharmony-riscv-techsalon-beijing-2025",
@@ -2940,7 +3027,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openatom-campus-shanghai-2025",
@@ -2979,7 +3067,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "multimodal-agentic-ai-beijing-2025",
@@ -3008,7 +3097,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "opentenbase-chengdu-2025",
@@ -3036,7 +3126,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "kcd-oid-hangzhou-2025",
@@ -3066,7 +3157,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "gitcode-campus-hust-2025",
@@ -3094,7 +3186,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "google-devfest-hangzhou-2025",
@@ -3123,7 +3216,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "google-devfest-beijing-2025",
@@ -3152,7 +3246,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openloong-college-beijing-2025",
@@ -3181,7 +3276,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openharmony-arkdata-enabling-streaming-lesson-2",
@@ -3211,7 +3307,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "cann-meetup-beijing-2025",
@@ -3240,7 +3337,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "openatom-campus-udalian-2025",
@@ -3270,7 +3368,8 @@
       ],
       "sourceName": "Open Source Deadlines 社区收录",
       "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
-      "verifiedOn": null
+      "verifiedOn": null,
+      "availability": null
     },
     {
       "id": "codeforces-2272",
@@ -4006,6 +4105,88 @@
           "comment": "会期结束"
         }
       ]
+    },
+    {
+      "id": "opencamp-os-2026fall",
+      "title": "2026 秋冬季开源操作系统训练营",
+      "description": "线上学习 Rust 与操作系统，通过 rCore、RISC-V 内核实验和组件化项目实践参与开源。官网说明全年可报名、可学习回放；同步阶段晋级需按本期要求完成实验。",
+      "category": "activity",
+      "tags": [
+        "训练营",
+        "Rust",
+        "操作系统"
+      ],
+      "link": "https://opencamp.cn/os2edu/camp/2026fall",
+      "sourceUrl": "https://opencamp.cn/os2edu/camp/2026fall",
+      "sourceName": "OpenCamp 本期训练营官网",
+      "verifiedOn": "2026-10-16",
+      "timezone": "Asia/Shanghai",
+      "place": "线上",
+      "date": "2026 年 9 月 27 日起，秋冬季分阶段进行",
+      "statusNote": "本期课程进行中。官网页首结束日为 2027-01-10，正文为 2027-01-03，两者不一致，因此不设置总结束日；以下仅列官网明确公布的阶段节点。",
+      "timeline": [
+        {
+          "at": "2026-09-27T00:00:00+08:00",
+          "dayOnly": true,
+          "comment": "本期开营"
+        },
+        {
+          "at": "2026-10-16T00:00:00+08:00",
+          "dayOnly": true,
+          "comment": "基础阶段结束"
+        },
+        {
+          "at": "2026-10-19T00:00:00+08:00",
+          "dayOnly": true,
+          "comment": "rCore 专业阶段开始"
+        },
+        {
+          "at": "2026-11-06T00:00:00+08:00",
+          "dayOnly": true,
+          "comment": "rCore 专业阶段结束"
+        },
+        {
+          "at": "2026-11-09T00:00:00+08:00",
+          "dayOnly": true,
+          "comment": "组件化项目先导阶段开始"
+        },
+        {
+          "at": "2026-11-28T00:00:00+08:00",
+          "dayOnly": true,
+          "comment": "组件化项目先导阶段结束"
+        },
+        {
+          "at": "2026-11-29T00:00:00+08:00",
+          "dayOnly": true,
+          "comment": "项目实践阶段开始"
+        },
+        {
+          "at": "2026-12-27T00:00:00+08:00",
+          "dayOnly": true,
+          "comment": "项目实践阶段结束"
+        }
+      ]
+    },
+    {
+      "id": "openeuler-internship",
+      "title": "openEuler 社区线上开源实习",
+      "description": "面向年满 18 周岁的在校大学生，按官网流程提交申请，通过审核后领取社区任务并获得导师指导。实习期限和成果要求见官方规则。",
+      "category": "activity",
+      "tags": [
+        "开源实习",
+        "Linux",
+        "线上"
+      ],
+      "link": "https://www.openeuler.org/zh/internship/",
+      "sourceUrl": "https://www.openeuler.org/zh/internship/",
+      "sourceName": "openEuler 社区官方实习页面",
+      "verifiedOn": "2026-10-16",
+      "timezone": "Asia/Shanghai",
+      "place": "线上",
+      "date": "按个人审核与实习协议安排",
+      "availability": "open_ended",
+      "statusNote": "核对时官网提供常设申请流程，未公布统一报名截止日。名额与任务需经社区审核，不表示申请一定通过；超过 30 天未复核将自动转入待核实。",
+      "timeline": []
     }
   ]
 }
