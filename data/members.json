@@ -1,66 +1,84 @@
 {
   "sourceUrl": "https://api.github.com/orgs/LZUOSS/public_members?per_page=100",
-  "syncedAt": "2026-10-16T22:27:51+08:00",
+  "syncedAt": "2026-10-16T22:30:47+08:00",
   "members": [
     {
       "login": "Degeneracy-Evil",
       "profileUrl": "https://github.com/Degeneracy-Evil",
-      "avatar": "assets/members/Degeneracy-Evil.png"
+      "avatar": "assets/members/Degeneracy-Evil.png",
+      "source": "github_public"
     },
     {
       "login": "dstsmallbird",
       "profileUrl": "https://github.com/dstsmallbird",
-      "avatar": "assets/members/dstsmallbird.jpg"
+      "avatar": "assets/members/dstsmallbird.jpg",
+      "source": "github_public"
     },
     {
       "login": "HenryAWE",
       "profileUrl": "https://github.com/HenryAWE",
-      "avatar": "assets/members/HenryAWE.png"
+      "avatar": "assets/members/HenryAWE.png",
+      "source": "github_public"
+    },
+    {
+      "login": "lexiaox",
+      "profileUrl": "https://github.com/lexiaox",
+      "avatar": "assets/members/lexiaox.jpg",
+      "source": "community_addition"
     },
     {
       "login": "lyscf",
       "profileUrl": "https://github.com/lyscf",
-      "avatar": "assets/members/lyscf.jpg"
+      "avatar": "assets/members/lyscf.jpg",
+      "source": "github_public"
     },
     {
       "login": "nftuoa",
       "profileUrl": "https://github.com/nftuoa",
-      "avatar": "assets/members/nftuoa.png"
+      "avatar": "assets/members/nftuoa.png",
+      "source": "github_public"
     },
     {
       "login": "pengsrc",
       "profileUrl": "https://github.com/pengsrc",
-      "avatar": "assets/members/pengsrc.jpg"
+      "avatar": "assets/members/pengsrc.jpg",
+      "source": "github_public"
     },
     {
       "login": "Petalzu",
       "profileUrl": "https://github.com/Petalzu",
-      "avatar": "assets/members/Petalzu.jpg"
+      "avatar": "assets/members/Petalzu.jpg",
+      "source": "github_public"
     },
     {
       "login": "Reset816",
       "profileUrl": "https://github.com/Reset816",
-      "avatar": "assets/members/Reset816.jpg"
+      "avatar": "assets/members/Reset816.jpg",
+      "source": "github_public"
     },
     {
       "login": "royenheart",
       "profileUrl": "https://github.com/royenheart",
-      "avatar": "assets/members/royenheart.png"
+      "avatar": "assets/members/royenheart.png",
+      "source": "github_public"
     },
     {
       "login": "v2yield",
       "profileUrl": "https://github.com/v2yield",
-      "avatar": "assets/members/v2yield.jpg"
+      "avatar": "assets/members/v2yield.jpg",
+      "source": "github_public"
     },
     {
       "login": "wtyqqq",
       "profileUrl": "https://github.com/wtyqqq",
-      "avatar": "assets/members/wtyqqq.png"
+      "avatar": "assets/members/wtyqqq.png",
+      "source": "github_public"
     },
     {
       "login": "xuyumeng",
       "profileUrl": "https://github.com/xuyumeng",
-      "avatar": "assets/members/xuyumeng.jpg"
+      "avatar": "assets/members/xuyumeng.jpg",
+      "source": "github_public"
     }
   ]
 }

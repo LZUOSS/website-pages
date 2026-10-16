@@ -5,7 +5,7 @@ memberSearch.addEventListener('input',()=>{
   const query=memberSearch.value.trim().replace(/^@/,'').toLowerCase();
   let visible=0;
   for(const card of memberCards){card.hidden=!card.dataset.login.includes(query);if(!card.hidden)visible++;}
-  memberCount.textContent=query?`${visible} / ${memberCards.length} 位成员`:`${memberCards.length} 位公开成员`;
+  memberCount.textContent=query?`${visible} / ${memberCards.length} 位成员`:`${memberCards.length} 位社区伙伴`;
   document.querySelector('#member-empty').hidden=visible>0;
 });
 for(const img of document.querySelectorAll('.avatar-frame img')){
