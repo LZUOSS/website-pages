@@ -1,0 +1,66 @@
+{
+  "sourceUrl": "https://api.github.com/orgs/LZUOSS/public_members?per_page=100",
+  "syncedAt": "2026-10-16T22:27:51+08:00",
+  "members": [
+    {
+      "login": "Degeneracy-Evil",
+      "profileUrl": "https://github.com/Degeneracy-Evil",
+      "avatar": "assets/members/Degeneracy-Evil.png"
+    },
+    {
+      "login": "dstsmallbird",
+      "profileUrl": "https://github.com/dstsmallbird",
+      "avatar": "assets/members/dstsmallbird.jpg"
+    },
+    {
+      "login": "HenryAWE",
+      "profileUrl": "https://github.com/HenryAWE",
+      "avatar": "assets/members/HenryAWE.png"
+    },
+    {
+      "login": "lyscf",
+      "profileUrl": "https://github.com/lyscf",
+      "avatar": "assets/members/lyscf.jpg"
+    },
+    {
+      "login": "nftuoa",
+      "profileUrl": "https://github.com/nftuoa",
+      "avatar": "assets/members/nftuoa.png"
+    },
+    {
+      "login": "pengsrc",
+      "profileUrl": "https://github.com/pengsrc",
+      "avatar": "assets/members/pengsrc.jpg"
+    },
+    {
+      "login": "Petalzu",
+      "profileUrl": "https://github.com/Petalzu",
+      "avatar": "assets/members/Petalzu.jpg"
+    },
+    {
+      "login": "Reset816",
+      "profileUrl": "https://github.com/Reset816",
+      "avatar": "assets/members/Reset816.jpg"
+    },
+    {
+      "login": "royenheart",
+      "profileUrl": "https://github.com/royenheart",
+      "avatar": "assets/members/royenheart.png"
+    },
+    {
+      "login": "v2yield",
+      "profileUrl": "https://github.com/v2yield",
+      "avatar": "assets/members/v2yield.jpg"
+    },
+    {
+      "login": "wtyqqq",
+      "profileUrl": "https://github.com/wtyqqq",
+      "avatar": "assets/members/wtyqqq.png"
+    },
+    {
+      "login": "xuyumeng",
+      "profileUrl": "https://github.com/xuyumeng",
+      "avatar": "assets/members/xuyumeng.jpg"
+    }
+  ]
+}
