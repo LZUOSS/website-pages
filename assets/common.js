@@ -1,1 +1,3 @@
+// Keep old single-page bookmarks working after the split.
+if((location.pathname==='/'||location.pathname.endsWith('/index.html'))&&['#events','#about'].includes(location.hash))location.replace(location.hash==='#events'?'events.html':'about.html');
 const dialog=document.querySelector('#join-dialog');document.querySelector('#join-button').addEventListener('click',()=>dialog.showModal());document.querySelector('#close-dialog').addEventListener('click',()=>dialog.close());dialog.addEventListener('click',event=>{if(event.target===dialog){const r=dialog.getBoundingClientRect();if(event.clientX<r.left||event.clientX>r.right||event.clientY<r.top||event.clientY>r.bottom)dialog.close();}});

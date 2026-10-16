@@ -1,8 +1,24 @@
 {
-  "syncedAt": "2026-10-16T21:01:03+08:00",
+  "syncedAt": "2026-10-16T21:14:54+08:00",
   "upstreamCommit": "8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf",
   "upstreamUpdatedAt": "2026-10-14T11:59:57Z",
   "upstreamUrl": "https://github.com/hust-open-atom-club/open-source-deadlines",
+  "sourceReports": [
+    {
+      "key": "codeforces",
+      "url": "https://codeforces.com/api/contest.list?gym=false",
+      "status": "ok",
+      "count": 3,
+      "fetchedAt": "2026-10-16T21:14:53+08:00"
+    },
+    {
+      "key": "atcoder",
+      "url": "https://atcoder.jp/contests/",
+      "status": "ok",
+      "count": 8,
+      "fetchedAt": "2026-10-16T21:14:54+08:00"
+    }
+  ],
   "items": [
     {
       "id": "risc-v-china-summit-2025",
@@ -3257,6 +3273,358 @@
       "verifiedOn": null
     },
     {
+      "id": "codeforces-2272",
+      "title": "Codeforces Round (Div. 2)",
+      "description": "Codeforces 官方排期的线上算法赛。参赛范围、Rated 规则及报名要求请查看对应比赛公告。",
+      "category": "competition",
+      "tags": [
+        "算法",
+        "Codeforces",
+        "线上"
+      ],
+      "link": "https://codeforces.com/contest/2272",
+      "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
+      "sourceName": "Codeforces 官方 API",
+      "sourceKey": "codeforces",
+      "retrievedOn": "2026-10-16",
+      "verifiedOn": null,
+      "date": "2026-10-26",
+      "place": "线上",
+      "timezone": "UTC",
+      "timeline": [
+        {
+          "at": "2026-10-26T14:35:00+00:00",
+          "dayOnly": false,
+          "comment": "比赛开始"
+        },
+        {
+          "at": "2026-10-26T16:50:00+00:00",
+          "dayOnly": false,
+          "comment": "比赛结束"
+        }
+      ]
+    },
+    {
+      "id": "codeforces-2277",
+      "title": "Codeforces Round (Div. 2)",
+      "description": "Codeforces 官方排期的线上算法赛。参赛范围、Rated 规则及报名要求请查看对应比赛公告。",
+      "category": "competition",
+      "tags": [
+        "算法",
+        "Codeforces",
+        "线上"
+      ],
+      "link": "https://codeforces.com/contest/2277",
+      "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
+      "sourceName": "Codeforces 官方 API",
+      "sourceKey": "codeforces",
+      "retrievedOn": "2026-10-16",
+      "verifiedOn": null,
+      "date": "2026-10-24",
+      "place": "线上",
+      "timezone": "UTC",
+      "timeline": [
+        {
+          "at": "2026-10-24T11:05:00+00:00",
+          "dayOnly": false,
+          "comment": "比赛开始"
+        },
+        {
+          "at": "2026-10-24T13:05:00+00:00",
+          "dayOnly": false,
+          "comment": "比赛结束"
+        }
+      ]
+    },
+    {
+      "id": "codeforces-2261",
+      "title": "WorldQuant Round 1 (Codeforces Round 1128, Div. 1 + Div. 2)",
+      "description": "Codeforces 官方排期的线上算法赛。参赛范围、Rated 规则及报名要求请查看对应比赛公告。",
+      "category": "competition",
+      "tags": [
+        "算法",
+        "Codeforces",
+        "线上"
+      ],
+      "link": "https://codeforces.com/contest/2261",
+      "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
+      "sourceName": "Codeforces 官方 API",
+      "sourceKey": "codeforces",
+      "retrievedOn": "2026-10-16",
+      "verifiedOn": null,
+      "date": "2026-10-17",
+      "place": "线上",
+      "timezone": "UTC",
+      "timeline": [
+        {
+          "at": "2026-10-17T14:35:00+00:00",
+          "dayOnly": false,
+          "comment": "比赛开始"
+        },
+        {
+          "at": "2026-10-17T17:35:00+00:00",
+          "dayOnly": false,
+          "comment": "比赛结束"
+        }
+      ]
+    },
+    {
+      "id": "atcoder-ahc073",
+      "title": "AtCoder Heuristic Contest 073",
+      "description": "AtCoder 官方赛程中的线上编程比赛。时长 4 小时 0 分钟；Rated 范围：All。资格及生成式 AI 使用规则以比赛页面为准。",
+      "category": "competition",
+      "tags": [
+        "算法",
+        "AtCoder",
+        "线上"
+      ],
+      "link": "https://atcoder.jp/contests/ahc073",
+      "sourceUrl": "https://atcoder.jp/contests/",
+      "sourceName": "AtCoder 官方赛程",
+      "sourceKey": "atcoder",
+      "retrievedOn": "2026-10-16",
+      "verifiedOn": null,
+      "date": "2026-10-17",
+      "place": "线上",
+      "timezone": "Asia/Tokyo",
+      "timeline": [
+        {
+          "at": "2026-10-17T15:00:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛开始"
+        },
+        {
+          "at": "2026-10-17T19:00:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛结束"
+        }
+      ]
+    },
+    {
+      "id": "atcoder-abc480",
+      "title": "AtCoder Beginner Contest 480",
+      "description": "AtCoder 官方赛程中的线上编程比赛。时长 1 小时 40 分钟；Rated 范围：- 1999。资格及生成式 AI 使用规则以比赛页面为准。",
+      "category": "competition",
+      "tags": [
+        "算法",
+        "AtCoder",
+        "线上"
+      ],
+      "link": "https://atcoder.jp/contests/abc480",
+      "sourceUrl": "https://atcoder.jp/contests/",
+      "sourceName": "AtCoder 官方赛程",
+      "sourceKey": "atcoder",
+      "retrievedOn": "2026-10-16",
+      "verifiedOn": null,
+      "date": "2026-10-17",
+      "place": "线上",
+      "timezone": "Asia/Tokyo",
+      "timeline": [
+        {
+          "at": "2026-10-17T21:00:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛开始"
+        },
+        {
+          "at": "2026-10-17T22:40:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛结束"
+        }
+      ]
+    },
+    {
+      "id": "atcoder-abc481",
+      "title": "SMBC Programming Contest #2 (AtCoder Beginner Contest 481）",
+      "description": "AtCoder 官方赛程中的线上编程比赛。时长 1 小时 40 分钟；Rated 范围：- 1999。资格及生成式 AI 使用规则以比赛页面为准。",
+      "category": "competition",
+      "tags": [
+        "算法",
+        "AtCoder",
+        "线上"
+      ],
+      "link": "https://atcoder.jp/contests/abc481",
+      "sourceUrl": "https://atcoder.jp/contests/",
+      "sourceName": "AtCoder 官方赛程",
+      "sourceKey": "atcoder",
+      "retrievedOn": "2026-10-16",
+      "verifiedOn": null,
+      "date": "2026-10-24",
+      "place": "线上",
+      "timezone": "Asia/Tokyo",
+      "timeline": [
+        {
+          "at": "2026-10-24T21:00:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛开始"
+        },
+        {
+          "at": "2026-10-24T22:40:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛结束"
+        }
+      ]
+    },
+    {
+      "id": "atcoder-arc233",
+      "title": "AtCoder Regular Contest++ 233",
+      "description": "AtCoder 官方赛程中的线上编程比赛。时长 2 小时 30 分钟；Rated 范围：1600 - 2999。资格及生成式 AI 使用规则以比赛页面为准。",
+      "category": "competition",
+      "tags": [
+        "算法",
+        "AtCoder",
+        "线上"
+      ],
+      "link": "https://atcoder.jp/contests/arc233",
+      "sourceUrl": "https://atcoder.jp/contests/",
+      "sourceName": "AtCoder 官方赛程",
+      "sourceKey": "atcoder",
+      "retrievedOn": "2026-10-16",
+      "verifiedOn": null,
+      "date": "2026-10-25",
+      "place": "线上",
+      "timezone": "Asia/Tokyo",
+      "timeline": [
+        {
+          "at": "2026-10-25T21:00:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛开始"
+        },
+        {
+          "at": "2026-10-25T23:30:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛结束"
+        }
+      ]
+    },
+    {
+      "id": "atcoder-ahc074",
+      "title": "HACK TO THE FUTURE 2027 (AtCoder Heuristic Contest 074)",
+      "description": "AtCoder 官方赛程中的线上编程比赛。时长 240 小时 0 分钟；Rated 范围：All。资格及生成式 AI 使用规则以比赛页面为准。",
+      "category": "competition",
+      "tags": [
+        "算法",
+        "AtCoder",
+        "线上"
+      ],
+      "link": "https://atcoder.jp/contests/ahc074",
+      "sourceUrl": "https://atcoder.jp/contests/",
+      "sourceName": "AtCoder 官方赛程",
+      "sourceKey": "atcoder",
+      "retrievedOn": "2026-10-16",
+      "verifiedOn": null,
+      "date": "2026-10-30",
+      "place": "线上",
+      "timezone": "Asia/Tokyo",
+      "timeline": [
+        {
+          "at": "2026-10-30T19:00:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛开始"
+        },
+        {
+          "at": "2026-11-09T19:00:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛结束"
+        }
+      ]
+    },
+    {
+      "id": "atcoder-abc482",
+      "title": "AtCoder Beginner Contest 482",
+      "description": "AtCoder 官方赛程中的线上编程比赛。时长 1 小时 40 分钟；Rated 范围：- 1999。资格及生成式 AI 使用规则以比赛页面为准。",
+      "category": "competition",
+      "tags": [
+        "算法",
+        "AtCoder",
+        "线上"
+      ],
+      "link": "https://atcoder.jp/contests/abc482",
+      "sourceUrl": "https://atcoder.jp/contests/",
+      "sourceName": "AtCoder 官方赛程",
+      "sourceKey": "atcoder",
+      "retrievedOn": "2026-10-16",
+      "verifiedOn": null,
+      "date": "2026-10-31",
+      "place": "线上",
+      "timezone": "Asia/Tokyo",
+      "timeline": [
+        {
+          "at": "2026-10-31T21:00:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛开始"
+        },
+        {
+          "at": "2026-10-31T22:40:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛结束"
+        }
+      ]
+    },
+    {
+      "id": "atcoder-abc483",
+      "title": "AtCoder Beginner Contest 483",
+      "description": "AtCoder 官方赛程中的线上编程比赛。时长 1 小时 40 分钟；Rated 范围：- 1999。资格及生成式 AI 使用规则以比赛页面为准。",
+      "category": "competition",
+      "tags": [
+        "算法",
+        "AtCoder",
+        "线上"
+      ],
+      "link": "https://atcoder.jp/contests/abc483",
+      "sourceUrl": "https://atcoder.jp/contests/",
+      "sourceName": "AtCoder 官方赛程",
+      "sourceKey": "atcoder",
+      "retrievedOn": "2026-10-16",
+      "verifiedOn": null,
+      "date": "2026-11-07",
+      "place": "线上",
+      "timezone": "Asia/Tokyo",
+      "timeline": [
+        {
+          "at": "2026-11-07T21:00:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛开始"
+        },
+        {
+          "at": "2026-11-07T22:40:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛结束"
+        }
+      ]
+    },
+    {
+      "id": "atcoder-agc079",
+      "title": "AtCoder Grand Contest 079",
+      "description": "AtCoder 官方赛程中的线上编程比赛。时长 3 小时 0 分钟；Rated 范围：2000 -。资格及生成式 AI 使用规则以比赛页面为准。",
+      "category": "competition",
+      "tags": [
+        "算法",
+        "AtCoder",
+        "线上"
+      ],
+      "link": "https://atcoder.jp/contests/agc079",
+      "sourceUrl": "https://atcoder.jp/contests/",
+      "sourceName": "AtCoder 官方赛程",
+      "sourceKey": "atcoder",
+      "retrievedOn": "2026-10-16",
+      "verifiedOn": null,
+      "date": "2026-11-08",
+      "place": "线上",
+      "timezone": "Asia/Tokyo",
+      "timeline": [
+        {
+          "at": "2026-11-08T21:00:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛开始"
+        },
+        {
+          "at": "2026-11-09T00:00:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛结束"
+        }
+      ]
+    },
+    {
       "id": "kubecon-na-2026",
       "title": "KubeCon + CloudNativeCon North America 2026",
       "description": "Kubernetes、云原生与开源基础设施开发者大会。11 月 9 日为会前活动，11 月 10–12 日为主会。",
@@ -3314,6 +3682,326 @@
         },
         {
           "at": "2027-01-31T00:00:00+01:00",
+          "dayOnly": true,
+          "comment": "会期结束"
+        }
+      ]
+    },
+    {
+      "id": "lanqiao-registration-2026",
+      "title": "蓝桥杯大学生个人赛 · 本轮报名",
+      "description": "软件类包含程序设计、Web、软件测试与网络安全等方向。需以学校为单位报名；赛别、资格与费用以组委会说明为准。",
+      "category": "competition",
+      "tags": [
+        "国内赛事",
+        "程序设计",
+        "蓝桥杯"
+      ],
+      "link": "https://dasai.lanqiao.cn/pages/v7/dasai/competition/individual_competition.html",
+      "sourceUrl": "https://dasai.lanqiao.cn/pages/v7/dasai/competition/individual_competition.html",
+      "sourceName": "蓝桥杯组委会官网",
+      "verifiedOn": "2026-10-16",
+      "timezone": "Asia/Shanghai",
+      "place": "中国 · 各赛点",
+      "date": "报名：2026 年 10 月 8 日–12 月 18 日",
+      "timeline": [
+        {
+          "at": "2026-10-08T10:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名开始"
+        },
+        {
+          "at": "2026-12-18T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名截止"
+        }
+      ]
+    },
+    {
+      "id": "cacc-regional-2026",
+      "title": "第三届 CCF 算法能力大赛（CACC）区域赛",
+      "description": "面向在校大学生与从业者，包含基础算法与工程优化题。区域赛在各地指定赛点举行，需确认所在赛区。",
+      "category": "competition",
+      "tags": [
+        "国内赛事",
+        "算法",
+        "工程优化"
+      ],
+      "link": "https://cacc.ccf.org.cn/",
+      "sourceUrl": "https://www.ccf.org.cn/Media_list/cacc/2026-09-28/935857.shtml",
+      "sourceName": "中国计算机学会官方通知",
+      "verifiedOn": "2026-10-16",
+      "timezone": "Asia/Shanghai",
+      "place": "中国 · 各城市指定赛点",
+      "date": "2026 年 12 月 6 日",
+      "timeline": [
+        {
+          "at": "2026-11-18T09:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名截止"
+        },
+        {
+          "at": "2026-12-06T09:30:00+08:00",
+          "dayOnly": false,
+          "comment": "区域赛开始"
+        },
+        {
+          "at": "2026-12-06T17:30:00+08:00",
+          "dayOnly": false,
+          "comment": "区域赛结束"
+        }
+      ]
+    },
+    {
+      "id": "ccsp-2026",
+      "title": "2026 CCF CCSP 竞赛",
+      "description": "大学生计算机系统与程序设计竞赛。本届报名已于 10 月 11 日截止；可关注比赛日程与赛后资料，不代表仍可报名。",
+      "category": "competition",
+      "tags": [
+        "国内赛事",
+        "程序设计",
+        "系统"
+      ],
+      "link": "https://www.ccf.org.cn/ccsp/",
+      "sourceUrl": "https://www.ccf.org.cn/Media_list/ccsp/2026-09-09/931087.shtml",
+      "sourceName": "中国计算机学会官方通知",
+      "verifiedOn": "2026-10-16",
+      "timezone": "Asia/Shanghai",
+      "place": "中国 · 成都",
+      "date": "2026 年 10 月 21–22 日",
+      "timeline": [
+        {
+          "at": "2026-10-11T00:00:00+08:00",
+          "dayOnly": true,
+          "comment": "报名截止"
+        },
+        {
+          "at": "2026-10-21T00:00:00+08:00",
+          "dayOnly": true,
+          "comment": "赛事开始"
+        },
+        {
+          "at": "2026-10-22T00:00:00+08:00",
+          "dayOnly": true,
+          "comment": "赛事日程结束"
+        }
+      ]
+    },
+    {
+      "id": "sc26-scc",
+      "title": "SC26 Student Cluster Competition",
+      "description": "面向本科生团队的学生超算竞赛，进行集群部署与科学应用优化。本届申请已关闭，当前展示比赛节点。",
+      "category": "competition",
+      "tags": [
+        "HPC",
+        "学生超算竞赛",
+        "系统"
+      ],
+      "link": "https://sc26.supercomputing.org/students/student-cluster-competition/",
+      "sourceUrl": "https://sc26.supercomputing.org/students/student-cluster-competition/",
+      "sourceName": "SC26 官方赛事页面",
+      "verifiedOn": "2026-10-16",
+      "timezone": "America/Chicago",
+      "place": "美国 · 芝加哥",
+      "date": "2026 年 11 月 16–18 日",
+      "timeline": [
+        {
+          "at": "2026-11-16T00:00:00-06:00",
+          "dayOnly": true,
+          "comment": "比赛开始"
+        },
+        {
+          "at": "2026-11-18T00:00:00-06:00",
+          "dayOnly": true,
+          "comment": "比赛结束"
+        }
+      ]
+    },
+    {
+      "id": "cncc-2026",
+      "title": "CNCC 2026 · 中国计算机大会",
+      "description": "面向计算机领域的技术与学术交流大会，覆盖人工智能、系统与产业趋势等方向。",
+      "category": "conference",
+      "tags": [
+        "国内会议",
+        "计算机综合",
+        "CCF"
+      ],
+      "link": "https://www.ccf.org.cn/CNCC2026",
+      "sourceUrl": "https://www.ccf.org.cn/Media_list/cncc/2026-06-30/908223.shtml",
+      "sourceName": "中国计算机学会官方邀请函",
+      "verifiedOn": "2026-10-16",
+      "timezone": "Asia/Shanghai",
+      "place": "中国 · 成都",
+      "date": "2026 年 10 月 21–24 日",
+      "timeline": [
+        {
+          "at": "2026-10-21T00:00:00+08:00",
+          "dayOnly": true,
+          "comment": "会期开始"
+        },
+        {
+          "at": "2026-10-24T00:00:00+08:00",
+          "dayOnly": true,
+          "comment": "会期结束"
+        }
+      ]
+    },
+    {
+      "id": "sc-2026",
+      "title": "SC26 · 国际高性能计算大会",
+      "description": "围绕高性能计算、网络、存储与分析的技术会议。主会与展览日期不同，具体参会安排请查看官方日程。",
+      "category": "conference",
+      "tags": [
+        "HPC",
+        "系统",
+        "并行计算"
+      ],
+      "link": "https://sc26.supercomputing.org/",
+      "sourceUrl": "https://sc26.supercomputing.org/attendees/chicago/",
+      "sourceName": "SC26 官方日程",
+      "verifiedOn": "2026-10-16",
+      "timezone": "America/Chicago",
+      "place": "美国 · 芝加哥",
+      "date": "2026 年 11 月 15–20 日",
+      "timeline": [
+        {
+          "at": "2026-11-15T00:00:00-06:00",
+          "dayOnly": true,
+          "comment": "会期开始"
+        },
+        {
+          "at": "2026-11-20T00:00:00-06:00",
+          "dayOnly": true,
+          "comment": "会期结束"
+        }
+      ]
+    },
+    {
+      "id": "emnlp-2026",
+      "title": "EMNLP 2026",
+      "description": "自然语言处理领域学术会议。主会论文提交与定稿节点已过，当前关注会期和公开议程。",
+      "category": "conference",
+      "tags": [
+        "AI",
+        "自然语言处理",
+        "学术会议"
+      ],
+      "link": "https://2026.emnlp.org/",
+      "sourceUrl": "https://2026.emnlp.org/",
+      "sourceName": "EMNLP 2026 官网",
+      "verifiedOn": "2026-10-16",
+      "timezone": "Europe/Budapest",
+      "place": "匈牙利 · 布达佩斯",
+      "date": "2026 年 10 月 24–29 日",
+      "timeline": [
+        {
+          "at": "2026-10-24T00:00:00+02:00",
+          "dayOnly": true,
+          "comment": "会期开始"
+        },
+        {
+          "at": "2026-10-29T00:00:00+01:00",
+          "dayOnly": true,
+          "comment": "会期结束"
+        }
+      ]
+    },
+    {
+      "id": "neurips-2026",
+      "title": "NeurIPS 2026 · 悉尼主会场",
+      "description": "机器学习与神经信息处理学术会议。另设亚特兰大、巴黎会场；此条仅显示悉尼会场日期，投稿已截止。",
+      "category": "conference",
+      "tags": [
+        "AI",
+        "机器学习",
+        "学术会议"
+      ],
+      "link": "https://nips.cc/Conferences/2026",
+      "sourceUrl": "https://nips.cc/Conferences/2026/Dates",
+      "sourceName": "NeurIPS 官方日期页面",
+      "verifiedOn": "2026-10-16",
+      "timezone": "Australia/Sydney",
+      "place": "澳大利亚 · 悉尼",
+      "date": "2026 年 12 月 6–12 日",
+      "timeline": [
+        {
+          "at": "2026-12-06T00:00:00+11:00",
+          "dayOnly": true,
+          "comment": "会期开始"
+        },
+        {
+          "at": "2026-12-12T00:00:00+11:00",
+          "dayOnly": true,
+          "comment": "会期结束"
+        }
+      ]
+    },
+    {
+      "id": "aaai-2027",
+      "title": "AAAI-27 · 人工智能大会",
+      "description": "人工智能研究与应用学术会议。主技术轨投稿已截止；此处展示注册优惠节点与会期。",
+      "category": "conference",
+      "tags": [
+        "AI",
+        "人工智能",
+        "学术会议"
+      ],
+      "link": "https://aaai.org/conference/aaai/aaai-27/",
+      "sourceUrl": "https://aaai.org/conference/aaai/aaai-27/aaai-27-registration/",
+      "sourceName": "AAAI 官方注册页面",
+      "verifiedOn": "2026-10-16",
+      "timezone": "America/Toronto",
+      "place": "加拿大 · 蒙特利尔",
+      "date": "2027 年 2 月 16–23 日",
+      "timeline": [
+        {
+          "at": "2026-12-15T23:59:00-05:00",
+          "dayOnly": false,
+          "comment": "早期注册截止"
+        },
+        {
+          "at": "2027-01-10T23:59:00-05:00",
+          "dayOnly": false,
+          "comment": "标准注册截止"
+        },
+        {
+          "at": "2027-02-16T00:00:00-05:00",
+          "dayOnly": true,
+          "comment": "会期开始"
+        },
+        {
+          "at": "2027-02-23T00:00:00-05:00",
+          "dayOnly": true,
+          "comment": "会期结束"
+        }
+      ]
+    },
+    {
+      "id": "iclr-2027",
+      "title": "ICLR 2027 · 学习表征大会",
+      "description": "深度学习与表征学习学术会议。官网已公布会期；论文投稿已截止，注册当前未开放。",
+      "category": "conference",
+      "tags": [
+        "AI",
+        "深度学习",
+        "学术会议"
+      ],
+      "link": "https://iclr.cc/Conferences/2027",
+      "sourceUrl": "https://iclr.cc/Conferences/2027",
+      "sourceName": "ICLR 2027 官网",
+      "verifiedOn": "2026-10-16",
+      "timezone": "America/Los_Angeles",
+      "place": "美国 · 加利福尼亚州",
+      "date": "2027 年 4 月 26–30 日",
+      "timeline": [
+        {
+          "at": "2027-04-26T00:00:00-07:00",
+          "dayOnly": true,
+          "comment": "会期开始"
+        },
+        {
+          "at": "2027-04-30T00:00:00-07:00",
           "dayOnly": true,
           "comment": "会期结束"
         }
