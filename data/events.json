@@ -1,0 +1,3323 @@
+{
+  "syncedAt": "2026-10-16T21:01:03+08:00",
+  "upstreamCommit": "8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf",
+  "upstreamUpdatedAt": "2026-10-14T11:59:57Z",
+  "upstreamUrl": "https://github.com/hust-open-atom-club/open-source-deadlines",
+  "items": [
+    {
+      "id": "risc-v-china-summit-2025",
+      "title": "RISC-V 中国峰会",
+      "description": "RISC-V 中国峰会是由 RISC-V 基金会主办的年度盛会，旨在促进 RISC-V 生态系统的发展和交流。",
+      "category": "conference",
+      "tags": [
+        "RISC-V",
+        "开源硬件",
+        "生态系统"
+      ],
+      "date": "2025年7月16日-7月19日",
+      "place": "中国，上海",
+      "timezone": "Asia/Shanghai",
+      "link": "https://riscv.org/event/risc-v-summit-china/",
+      "timeline": [
+        {
+          "at": "2025-06-19T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名开始"
+        },
+        {
+          "at": "2025-07-16T09:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议开始"
+        },
+        {
+          "at": "2025-07-19T09:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "ccfchinaosc2025",
+      "title": "CCF 中国开源大会",
+      "description": "中国计算机学会开源大会",
+      "category": "conference",
+      "tags": [
+        "RISC-V",
+        "openEuler"
+      ],
+      "date": "2025年8月2日-11月3日",
+      "place": "中国，上海",
+      "timezone": "Asia/Shanghai",
+      "link": "https://chinaosc.ccf.org.cn/",
+      "timeline": [
+        {
+          "at": "2025-06-02T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "注册开始"
+        },
+        {
+          "at": "2025-08-02T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "注册截止"
+        },
+        {
+          "at": "2025-08-02T09:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议开始"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "ccfchinaosc2024",
+      "title": "CCF 中国开源大会",
+      "description": "中国计算机学会开源大会",
+      "category": "conference",
+      "tags": [
+        "RISC-V",
+        "openEuler"
+      ],
+      "date": "2024年11月9日-11月10日",
+      "place": "中国，深圳",
+      "timezone": "Asia/Shanghai",
+      "link": "https://chinaosc.ccf.org.cn/2024/",
+      "timeline": [
+        {
+          "at": "2024-08-01T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "注册开始"
+        },
+        {
+          "at": "2024-11-09T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "注册截止"
+        },
+        {
+          "at": "2024-11-10T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议开始"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "clk2024",
+      "title": "中国 Linux 内核开发者大会",
+      "description": "由清华大学、Intel 等多家企业和机构发起，是中国 Linux 内核领域有影响力的峰会。",
+      "category": "conference",
+      "tags": [
+        "Linux 内核",
+        "开源技术",
+        "开发者大会"
+      ],
+      "date": "2024年10月26日",
+      "place": "中国，武汉",
+      "timezone": "Asia/Shanghai",
+      "link": "http://ckernel.org/",
+      "timeline": [
+        {
+          "at": "2024-09-10T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "征稿开放"
+        },
+        {
+          "at": "2024-09-26T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "征稿截止"
+        },
+        {
+          "at": "2024-10-21T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "演讲PPT截止提交"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "coc-asia-2025",
+      "title": "Community Over Code Asia",
+      "description": "Apache 软件基金会的官方全球系列大会，前身为 ApacheCon，旨在展示 Apache 项目的最新发展和新兴创新，促进开源社区协作与技术交流。",
+      "category": "conference",
+      "tags": [
+        "Apache",
+        "开源技术"
+      ],
+      "date": "2025年7月25日-7月27日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "http://asia.communityovercode.org/",
+      "timeline": [
+        {
+          "at": "2025-04-21T23:59:00+08:00",
+          "dayOnly": false,
+          "comment": "议题征集截止"
+        },
+        {
+          "at": "2025-07-25T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议开始"
+        },
+        {
+          "at": "2025-07-27T23:59:00+08:00",
+          "dayOnly": false,
+          "comment": "会议结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "ubuconasia2025",
+      "title": "UbuCon Asia",
+      "description": "UbuCon Asia is a community-organized conference connecting Ubuntu community in Asia.",
+      "category": "conference",
+      "tags": [
+        "Ubuntu"
+      ],
+      "date": "August 30th, 2025 - August 31th, 2025",
+      "place": "Kathmandu, Nepal",
+      "timezone": "Asia/Kathmandu",
+      "link": "https://2025.ubucon.asia/",
+      "timeline": [
+        {
+          "at": "2025-03-01T00:00:00+05:45",
+          "dayOnly": false,
+          "comment": "Open day for Call for proposals & Travel grant application"
+        },
+        {
+          "at": "2025-03-31T00:00:00+05:45",
+          "dayOnly": false,
+          "comment": "Deadline for Call for proposals, Travel grant application for those who submitted proposals"
+        },
+        {
+          "at": "2025-04-15T00:00:00+05:45",
+          "dayOnly": false,
+          "comment": "Extended deadline for Call for proposals"
+        },
+        {
+          "at": "2025-04-28T00:00:00+05:45",
+          "dayOnly": false,
+          "comment": "Extended deadline for Travel grant application for those who submitted proposals"
+        },
+        {
+          "at": "2025-08-29T00:00:00+05:45",
+          "dayOnly": false,
+          "comment": "Arrival day"
+        },
+        {
+          "at": "2025-08-30T00:00:00+05:45",
+          "dayOnly": false,
+          "comment": "Fisrt day of UbuCon Asia 2025"
+        },
+        {
+          "at": "2025-08-31T00:00:00+05:45",
+          "dayOnly": false,
+          "comment": "Second day of UbuCon Asia 2025"
+        },
+        {
+          "at": "2025-09-01T00:00:00+05:45",
+          "dayOnly": false,
+          "comment": "Group tour program"
+        },
+        {
+          "at": "2025-09-02T00:00:00+05:45",
+          "dayOnly": false,
+          "comment": "Departure day"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openatom-open-source-eco-conf-2025",
+      "title": "开放原子开源生态大会",
+      "description": "以“开源赋能产业 生态共筑未来”为主题，大会将聚合全球开源智慧，联动政企产学研用多方力量，带来从技术实践到生态建设的全维度分享。",
+      "category": "conference",
+      "tags": [
+        "开放原子",
+        "开源生态"
+      ],
+      "date": "2025年7月23日-7月24日",
+      "place": "中国，上海",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/Pxk9sCDt59EmBBDf2u0Lbg",
+      "timeline": [
+        {
+          "at": "2025-07-21T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名截止"
+        },
+        {
+          "at": "2025-07-23T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议开始"
+        },
+        {
+          "at": "2025-07-24T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "vueconf-2025",
+      "title": "VueConf",
+      "description": "VueConf是Vue.js官方社区组织的年度技术大会，分享Vue.js最新进展和最佳实践。",
+      "category": "conference",
+      "tags": [
+        "Vue.js"
+      ],
+      "date": "2025年7月12日",
+      "place": "中国，深圳",
+      "timezone": "Asia/Shanghai",
+      "link": "https://vueconf.cn/",
+      "timeline": [
+        {
+          "at": "2025-07-05T22:22:00+08:00",
+          "dayOnly": false,
+          "comment": "报名截止"
+        },
+        {
+          "at": "2025-07-12T08:00:00+08:00",
+          "dayOnly": false,
+          "comment": "签到开始"
+        },
+        {
+          "at": "2025-07-12T19:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "rustchinaconf-2025",
+      "title": "RustChinaConf",
+      "description": "中国最大规模的 Rust 技术盛会，连接全球 Rust 开发者的桥梁。",
+      "category": "conference",
+      "tags": [
+        "Rust"
+      ],
+      "date": "2025年9月13日-9月14日",
+      "place": "中国，杭州",
+      "timezone": "Asia/Shanghai",
+      "link": "https://rustcc.cn/2025conf/",
+      "timeline": [
+        {
+          "at": "2025-07-15T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "提案截止"
+        },
+        {
+          "at": "2025-07-31T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "录用通知"
+        },
+        {
+          "at": "2025-08-15T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "最终议程"
+        },
+        {
+          "at": "2025-09-13T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议开始"
+        },
+        {
+          "at": "2025-09-14T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "ysyx2025-summer-press-conference",
+      "title": "“一生一芯” 2025 暑期发布会",
+      "description": "“一生一芯” 2025 暑期发布会将发布新版讲义、后端讲义和新版流片计划等，线下线上均可参与。",
+      "category": "conference",
+      "tags": [
+        "一生一芯",
+        "RISC-V",
+        "处理器芯片"
+      ],
+      "date": "2025 年 7 月 21 日",
+      "place": "中国，深圳",
+      "timezone": "Asia/Shanghai",
+      "link": "https://zhuanlan.zhihu.com/p/1929322131939910259",
+      "timeline": [
+        {
+          "at": "2025-07-19T23:59:00+08:00",
+          "dayOnly": false,
+          "comment": "线下报名截止"
+        },
+        {
+          "at": "2025-07-21T14:30:00+08:00",
+          "dayOnly": false,
+          "comment": "会议开始"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "gosim-hangzhou-2025",
+      "title": "GOSIM Conference",
+      "description": "GOSIM Conference is for Users, Engineers, Strategists, Business Executives, Architects and Open-Source Experts.",
+      "category": "conference",
+      "tags": [
+        "AI",
+        "Web"
+      ],
+      "date": "2025年9月13日-9月14日",
+      "place": "中国，杭州",
+      "timezone": "Asia/Shanghai",
+      "link": "https://hangzhou2025.gosim.org/",
+      "timeline": [
+        {
+          "at": "2025-08-31T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名截止"
+        },
+        {
+          "at": "2025-09-13T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议开始"
+        },
+        {
+          "at": "2025-09-14T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "apsara-2025",
+      "title": "云栖大会",
+      "description": "作为中国云计算与AI产业链的年度盛会，云栖大会广泛协同上中下游生态共同呈现，展示并交流全产业链的发展趋势、技术创新、关键产品、最新应用。",
+      "category": "conference",
+      "tags": [
+        "AI"
+      ],
+      "date": "2025年9月24日-9月26日",
+      "place": "中国，杭州",
+      "timezone": "Asia/Shanghai",
+      "link": "https://yunqi.aliyun.com/2025",
+      "timeline": [
+        {
+          "at": "2025-09-24T08:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议开始"
+        },
+        {
+          "at": "2025-09-26T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openkylin-developer-2025",
+      "title": "openKylin 开发者大会",
+      "description": "开源聚智·麒心行",
+      "category": "conference",
+      "tags": [
+        "openKylin",
+        "开发者大会"
+      ],
+      "date": "2025年8月26日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://www.openatom.org/journalism/detail/I4P5cHBeVfGi",
+      "timeline": [
+        {
+          "at": "2025-08-26T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议开始"
+        },
+        {
+          "at": "2025-08-26T17:30:00+08:00",
+          "dayOnly": false,
+          "comment": "会议结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openharmony-tech-conf-2025",
+      "title": "开源鸿蒙技术大会 2025",
+      "description": "聚焦开源鸿蒙技术的年度核心进展，勾勒智能终端操作系统全场景适配与技术深化的清晰路径，解读开源鸿蒙在数字基础设施建设中的核心价值。",
+      "category": "conference",
+      "tags": [
+        "OpenHarmony"
+      ],
+      "date": "2025年9月27日",
+      "place": "中国，长沙",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/k5jE6TqRwTnGViwJgbNesA",
+      "timeline": [
+        {
+          "at": "2025-09-27T08:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议开始"
+        },
+        {
+          "at": "2025-09-27T17:30:00+08:00",
+          "dayOnly": false,
+          "comment": "会议结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "flagos-dev-conference-2025",
+      "title": "首届 FlagOS 开放计算开发者大会",
+      "description": "由 FlagOS 开源社区和北京智源人工智能研究院联合主办的首届 FlagOS 开放计算开发者大会将于 2025 年 9 月 26 - 27 日在中国北京举行。在北京市发改委、北京市科委中关村管委会、北京市经信局、海淀区政府等部门的联合指导下，本次大会旨在打造一场全球开源技术的交流盛宴，探索“人工智能+”建设的产-学-研共同体。大会将聚焦 AI 系统软件的核心技术突破，致力于应对当前 AI 系统生态碎片化、软硬件跨系统迁移困难等重大挑战，旨在构建更开放、高效、兼容的未来人工智能产业生态。",
+      "category": "conference",
+      "tags": [
+        "FlagOS",
+        "AI",
+        "人工智能+"
+      ],
+      "date": "2025 年 9 月 26 日 - 2025 年 9 月 27 日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/pCuhGVccOcibJqNWRbQwAg",
+      "timeline": [
+        {
+          "at": "2025-09-25T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名截止"
+        },
+        {
+          "at": "2025-09-26T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "大会开始"
+        },
+        {
+          "at": "2025-09-27T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "大会结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "pycon-china-2025",
+      "title": "PyCon China 2025",
+      "description": "PyCon China 2025 将于 9 月 20 日在上海与大家相约！大会将通过 1 个主会场、4 个分会场、开源松、Vibe Coding 黑客松以及社区开源集市展的形式，汇集国内外各 Python 专家与实力开发者，为大家带来一场丰富、精彩、趣味、活力的 PyCon 大会。今年的大会将有来自国内外的 40+ Python 大咖，带来 27 个主题演讲、1 个圆桌讨论、12 个闪电演讲，涵盖大模型与 AI Agent 技术，Python 工程与生态实践，数据、搜索与金融应用，逆向、调试与底层技术，Web/工程自动化与应用开发，以及开源社区与生态发展等多个 Python 生态相关的前沿与实践方向。",
+      "category": "conference",
+      "tags": [
+        "Python",
+        "AI",
+        "黑客松"
+      ],
+      "date": "2025 年 9 月 20 日",
+      "place": "中国，上海",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/o__QnWKYwlKV40OlEjFyaA",
+      "timeline": [
+        {
+          "at": "2025-09-20T09:30:00+08:00",
+          "dayOnly": false,
+          "comment": "大会开始"
+        },
+        {
+          "at": "2025-09-20T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "大会结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "coscon-2025",
+      "title": "COSCon'25",
+      "description": "中国开源年会 COSCon 是业界最具影响力的开源盛会之一，由开源社在 2015 年首次发起，今年恰逢中国开源年会的第十个年头。COSCon 具有跨组织、跨项目、跨社区的广泛覆盖面，也吸引了众多国内外开源开发者、贡献者和提交者的关注及参与。",
+      "category": "conference",
+      "tags": [
+        "开源社"
+      ],
+      "date": "2025 年 12 月 6 日 - 2025 年 12 月 7 日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/1hgKp-VCRJbVYaVPC_SRKw",
+      "timeline": [
+        {
+          "at": "2025-12-06T09:30:00+08:00",
+          "dayOnly": false,
+          "comment": "大会开始"
+        },
+        {
+          "at": "2025-12-07T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "大会结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openvela-gdc-2025",
+      "title": "openvela Global Developer Conference",
+      "description": "由 openvela 与 NuttX 联合打造的 openvela Global Developer Conference（全球开发者大会）将在哥斯达黎加圣何塞的 HYATT PLACE SAN JOSE/PINARES 盛大举办，为全球 AIoT 开发者搭建技术交流、生态共建的顶级平台。",
+      "category": "conference",
+      "tags": [
+        "openvela"
+      ],
+      "date": "2025 年 10 月 17 日",
+      "place": "哥斯达黎加",
+      "timezone": "America/Costa_Rica",
+      "link": "https://mp.weixin.qq.com/s/ZFaAI48dO67MnfuzVoOqKg",
+      "timeline": [
+        {
+          "at": "2025-10-17T13:00:00-06:00",
+          "dayOnly": false,
+          "comment": "大会开始"
+        },
+        {
+          "at": "2025-10-17T16:00:00-06:00",
+          "dayOnly": false,
+          "comment": "大会结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openEuler-summit-2025",
+      "title": "openEuler Summit 2025",
+      "description": "OpenAtom openEuler（简称“openEuler”或“开源欧拉”） 社区将在北京中关村国际创新中心举办 openEuler Summit 2025。本次大会聚焦 AI 与 OS 的深度融合，推动全球开源生态协作创新。大会将邀请来自全球的客户、伙伴与开发者共聚一堂，分享操作系统领域前沿技术趋势与产业实践，探讨操作系统如何通过开源协作提升全球影响力。",
+      "category": "conference",
+      "tags": [
+        "openEuler",
+        "开放原子"
+      ],
+      "date": "2025 年 11 月 15 日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/pRyVgmOthCgiiHOUS3dy_Q",
+      "timeline": [
+        {
+          "at": "2025-10-25T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "Call for Speaker"
+        },
+        {
+          "at": "2025-10-25T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "Call for Demo"
+        },
+        {
+          "at": "2025-10-31T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "Call for SIG"
+        },
+        {
+          "at": "2025-11-07T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "Call for Poster"
+        },
+        {
+          "at": "2025-11-15T09:30:00+08:00",
+          "dayOnly": false,
+          "comment": "大会开始"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "gotc-ai-edu-2025",
+      "title": "GOTC 2025 全球开源技术峰会 AI 教育与人才培养论坛",
+      "description": "为响应全球企业对 AI 人才培养的迫切需求，助力行业破解技术人才困境，由 Linux Foundation 开源软件学园（LFOSSA）、开放智算产业联盟、RISC-V International、LF AI & DATA APAC RUG 支持的「AI 教育与人才培养论坛」，即将在 GOTC 大会期间 2025 年 11 月 2 日（周日） 在北京亦庄·通明湖会展中心盛大启幕！",
+      "category": "conference",
+      "tags": [
+        "GOTC",
+        "AI"
+      ],
+      "date": "2025 年 11 月 2 日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/R-Bzn68rhebRldaUwdP1Vg",
+      "timeline": [
+        {
+          "at": "2025-11-02T13:30:00+08:00",
+          "dayOnly": false,
+          "comment": "分论坛开始"
+        },
+        {
+          "at": "2025-11-02T16:15:00+08:00",
+          "dayOnly": false,
+          "comment": "分论坛结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "dduc-wuhan-2025",
+      "title": "第十五届深度开发者与用户大会 (DDUC 2025)",
+      "description": "本次分享嘉宾来自 deepin 核心团队、生态伙伴、开源社区及开发者代表，他们将围绕系统演进、兼容技术、开源协作等主题，展开多维度对话。会议议题主要覆盖：deepin 社区共创与版本展望、Wine Wayland 的演进路径、DKapture 高效系统信息采集方案、CPU 自主生态与端侧 AI 开源融合、跨界协作与社区创新等内容。",
+      "category": "conference",
+      "tags": [
+        "deepin"
+      ],
+      "date": "2025 年 12 月 27 日",
+      "place": "中国，武汉",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/Fgw-F-bFOdcmBM0xXMWBXQ",
+      "timeline": [
+        {
+          "at": "2025-12-27T13:30:00+08:00",
+          "dayOnly": false,
+          "comment": "会议签到开始"
+        },
+        {
+          "at": "2025-12-27T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议正式开始"
+        },
+        {
+          "at": "2025-12-27T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "会议结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/conferences.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "PaddlePaddle-Starter-2026spring",
+      "title": "【HACKATHON 预备营】飞桨启航计划集训营（马年新春版）",
+      "description": "「启航计划（马年新春版）」 是为 寒假与春节假期 特别推出的限时版本。我们希望在年初相对集中的空闲时间里，为对开源感兴趣的开发者提供一个 低门槛、可实践 的参与机会。能让各位在春节假期中真正参与一次开源贡献，了解真实开源项目的协作方式与节奏，在新的一年，迈出属于自己的 第一步开源实践 ——这个冬天，不只是休息与团聚，也可以是你开启开源之旅的起点。",
+      "category": "competition",
+      "tags": [
+        "PaddlePaddle",
+        "启航计划"
+      ],
+      "date": "2026 年 1 月 26 日 - 3 月 9 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://github.com/PaddlePaddle/Paddle/issues/77510",
+      "timeline": [
+        {
+          "at": "2026-01-26T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "PR 提交截止"
+        },
+        {
+          "at": "2026-03-10T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "结项提交"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "PaddlePaddle-hackathon-10th-spring",
+      "title": "【Hackathon 10th】开源贡献个人挑战赛 · 春节特别季",
+      "description": "本次 「春节特别季」 是第十期 PaddlePaddle Hackathon 的前置特别活动，面向全球开发者开放，聚焦 高质量开源贡献，为开发者在春节期间提供一个可持续投入、可明确验收、可获得激励的参与入口。",
+      "category": "competition",
+      "tags": [
+        "PaddlePaddle",
+        "Hackathon"
+      ],
+      "date": "2026 年 1 月 19 日 - 3 月 6 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://github.com/PaddlePaddle/Paddle/issues/77429",
+      "timeline": [
+        {
+          "at": "2026-01-19T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "PR 提交截止"
+        },
+        {
+          "at": "2026-03-07T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "结项提交"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "PaddlePaddle-Starter-6th",
+      "title": "PaddlePaddle 启航计划集训营（第六期）",
+      "description": "「启航计划」 是 飞桨开源社区 发起的远程集训项目，也是「护航计划」的前置活动。我们以开展线上集训营的形式，鼓励开发者积极参与开源项目，以此提升自己的代码实践能力，与社区共同成长 💪。只要对开源怀有热忱，都欢迎报名参与！",
+      "category": "competition",
+      "tags": [
+        "PaddlePaddle",
+        "启航计划"
+      ],
+      "date": "2025 年 9 月 12 日 - 12 月 15 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://github.com/PaddlePaddle/Paddle/issues/75250",
+      "timeline": [
+        {
+          "at": "2025-11-24T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "PR 提交截止"
+        },
+        {
+          "at": "2025-12-16T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "结项提交"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "PaddlePaddle-hackathon-9th",
+      "title": "第九届 PaddlePaddle 黑客松",
+      "description": "PaddlePaddle Hackathon 正式开始啦 🎉！本次活动是飞桨开源社区面向全球开发者的深度学习领域编程活动，鼓励开发者了解与参与飞桨深度学习开源项目的开发实践。",
+      "category": "competition",
+      "tags": [
+        "PaddlePaddle",
+        "Hackathon"
+      ],
+      "date": "2025 年 8 月 25 日 - 12 月 15 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://github.com/PaddlePaddle/Paddle/issues/74777",
+      "timeline": [
+        {
+          "at": "2025-11-24T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "PR 提交截止"
+        },
+        {
+          "at": "2025-12-16T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "结项提交"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "gitlink-summer-camp-2025",
+      "title": "GitLink \"确实开源\"编程夏令营（GLCC）",
+      "description": "GitLink \"确实开源\"编程夏令营（GLCC）是在 CCF 中国计算机学会指导下，由 CCF 开源发展委员会（CCF ODC）举办的面向全国高校学生的暑期编程活动。",
+      "category": "competition",
+      "tags": [
+        "确实开源",
+        "编程夏令营"
+      ],
+      "date": "2025 年 4 月 15 日 - 9 月 26 日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://www.gitlink.org.cn/glcc",
+      "timeline": [
+        {
+          "at": "2025-06-10T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "项目报名截至"
+        },
+        {
+          "at": "2025-07-05T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "学生报名截止"
+        },
+        {
+          "at": "2025-08-03T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "中期考核结果公示"
+        },
+        {
+          "at": "2025-09-26T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "结项考核结果公示"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "ospp2025",
+      "title": "开源之夏",
+      "description": "开源软件供应链点亮计划",
+      "category": "competition",
+      "tags": [
+        "RISC-V",
+        "openEuler",
+        "Apache"
+      ],
+      "date": "2025 年 4 月 30 日 - 9 月 30 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://summer-ospp.ac.cn",
+      "timeline": [
+        {
+          "at": "2025-06-04T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "项目申请书提交"
+        },
+        {
+          "at": "2025-10-01T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "结项提交"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "ospp2024",
+      "title": "开源之夏",
+      "description": "开源软件供应链点亮计划",
+      "category": "competition",
+      "tags": [
+        "RISC-V",
+        "openEuler",
+        "Apache"
+      ],
+      "date": "2024 年 4 月 30 日 - 9 月 30 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://summer-ospp.ac.cn/2024/",
+      "timeline": [
+        {
+          "at": "2024-06-04T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "项目申请书提交"
+        },
+        {
+          "at": "2024-10-01T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "结项提交"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "gsoc2025",
+      "title": "谷歌编程之夏",
+      "description": "一项旨在吸引更多开发者参与开源软件开发的全球性项目",
+      "category": "competition",
+      "tags": [
+        "Programming",
+        "Mentorship",
+        "Open Source"
+      ],
+      "date": "2025 年 1 月 27 日 - 11 月 17 日",
+      "place": "线上",
+      "timezone": "UTC",
+      "link": "https://summerofcode.withgoogle.com/",
+      "timeline": [
+        {
+          "at": "2025-01-27T18:00:00+00:00",
+          "dayOnly": false,
+          "comment": "导师组织申请开始"
+        },
+        {
+          "at": "2025-02-11T18:00:00+00:00",
+          "dayOnly": false,
+          "comment": "导师组织申请截止"
+        },
+        {
+          "at": "2025-03-24T18:00:00+00:00",
+          "dayOnly": false,
+          "comment": "贡献者申请开始"
+        },
+        {
+          "at": "2025-04-08T18:00:00+00:00",
+          "dayOnly": false,
+          "comment": "贡献者申请截止"
+        },
+        {
+          "at": "2025-05-08T18:00:00+00:00",
+          "dayOnly": false,
+          "comment": "公布贡献者项目"
+        },
+        {
+          "at": "2025-06-02T00:00:00+00:00",
+          "dayOnly": false,
+          "comment": "正式开始编码"
+        },
+        {
+          "at": "2025-07-14T18:00:00+00:00",
+          "dayOnly": false,
+          "comment": "中期评估开始"
+        },
+        {
+          "at": "2025-07-18T18:00:00+00:00",
+          "dayOnly": false,
+          "comment": "中期评估截止"
+        },
+        {
+          "at": "2025-09-01T18:00:00+00:00",
+          "dayOnly": false,
+          "comment": "贡献者提交最终成果和最终导师评估截止"
+        },
+        {
+          "at": "2025-11-10T18:00:00+00:00",
+          "dayOnly": false,
+          "comment": "延长截止日期的贡献者提交最终成果和最终评估截止"
+        },
+        {
+          "at": "2025-11-17T18:00:00+00:00",
+          "dayOnly": false,
+          "comment": "导师针对延长截止日期的贡献者项目提交评估截止"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "nscscc-cpu-2025",
+      "title": "全国大学生计算机系统能力大赛 - CPU 设计赛 (龙芯杯)",
+      "description": "面向高校大学生举办的全国性大赛，旨在选拔我国计算机系统的设计、分析、优化与应用人才。",
+      "category": "competition",
+      "tags": [
+        "CPU 设计",
+        "龙芯",
+        "计算机系统",
+        "体系结构"
+      ],
+      "date": "2025 年 3 月 20 日 - 8 月下旬",
+      "place": "线上初赛 + 线下决赛",
+      "timezone": "Asia/Shanghai",
+      "link": "https://www.nscscc.com",
+      "timeline": [
+        {
+          "at": "2025-06-20T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "报名截止"
+        },
+        {
+          "at": "2025-08-05T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "初赛作品线上提交截止"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "trotp2025",
+      "title": "腾讯犀牛鸟",
+      "description": "“犀牛鸟开源人才培养计划”是一项由腾讯发布的，面向高校学生及广大开发者的开源课程和开源实践培养方案，旨在培育开源人才、普及开源文化。",
+      "category": "competition",
+      "tags": [
+        "腾讯犀牛鸟",
+        "人才培养",
+        "开源技术"
+      ],
+      "date": "2025 年 6 月 20 日 - 9 月 10 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://opensource.tencent.com/summer-of-code",
+      "timeline": [
+        {
+          "at": "2025-06-20T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名开始 & 开源基础课程开启"
+        },
+        {
+          "at": "2025-07-10T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "开源 issue 实践开启"
+        },
+        {
+          "at": "2025-07-28T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名结束"
+        },
+        {
+          "at": "2025-08-01T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "开源课题实战开启"
+        },
+        {
+          "at": "2025-09-10T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "实战毕业"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "gondc2025",
+      "title": "Godot x openKylin 全国开发大赛",
+      "description": "Godot x openKylin 全国开发大赛旨在鼓励开发者使用 Godot 引擎进行跨平台创作，推动开源生态发展。大赛聚焦游戏与软件创新，促进优秀作品在 openKylin 操作系统上的落地应用。",
+      "category": "competition",
+      "tags": [
+        "openKylin",
+        "Godot",
+        "开源技术"
+      ],
+      "date": "2025 年 7 月 5 日 - 10 月 25 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/pYNHInIts4Rf0TH3joQVsQ",
+      "timeline": [
+        {
+          "at": "2025-07-05T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名 & 比赛开始"
+        },
+        {
+          "at": "2025-08-01T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "作品提交开始"
+        },
+        {
+          "at": "2025-09-01T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名截止"
+        },
+        {
+          "at": "2025-09-10T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "比赛结束 & 作品提交截止"
+        },
+        {
+          "at": "2025-10-15T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "评选结束"
+        },
+        {
+          "at": "2025-10-25T12:00:00+08:00",
+          "dayOnly": false,
+          "comment": "颁奖结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "cpipc2",
+      "title": "中国研究生操作系统开源创新大赛",
+      "description": "中国研究生操作系统开源创新大赛是面向研究生和本科生的全国性、公益性开源创新赛，由教育部学位管理与研究生教育司指导、中国学位与研究生教育学会和中国科协青少年科技中心主办。",
+      "category": "competition",
+      "tags": [
+        "操作系统",
+        "开源技术"
+      ],
+      "date": "2025 年 5 月 1 日 - 8 月下旬",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://cpipc.acge.org.cn/cw/hp/2c9080178c7c917b018d1b1a0af61cd6",
+      "timeline": [
+        {
+          "at": "2025-05-01T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名开始"
+        },
+        {
+          "at": "2025-05-20T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "作品提交开始"
+        },
+        {
+          "at": "2025-07-18T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名截止"
+        },
+        {
+          "at": "2025-07-20T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "作品提交截止"
+        },
+        {
+          "at": "2025-07-25T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "初赛评审（具体时间待定）"
+        },
+        {
+          "at": "2025-07-30T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "入围公示（具体时间待定）"
+        },
+        {
+          "at": "2025-08-25T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "决赛（具体时间待定）"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "coc-na-2025",
+      "title": "Community Over Code NA",
+      "description": "Apache 软件基金会的年度会议，汇集开源开发者、用户和贡献者",
+      "category": "conference",
+      "tags": [
+        "Apache",
+        "开源",
+        "北美"
+      ],
+      "date": "2025 年 9 月 11 日 - 14 日",
+      "place": "美国，明尼阿波利斯",
+      "timezone": "America/New_York",
+      "link": "https://communityovercode.org/",
+      "timeline": [
+        {
+          "at": "2025-06-28T23:59:59-04:00",
+          "dayOnly": false,
+          "comment": "早鸟票截止（US$650）"
+        },
+        {
+          "at": "2025-06-30T23:59:59-04:00",
+          "dayOnly": false,
+          "comment": "演讲提案提交截止"
+        },
+        {
+          "at": "2025-08-15T23:59:59-04:00",
+          "dayOnly": false,
+          "comment": "常规票价生效（US$750）"
+        },
+        {
+          "at": "2025-09-11T00:00:00-04:00",
+          "dayOnly": false,
+          "comment": "会议正式开始"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "oh-competition-2025",
+      "title": "OpenHarmony竞赛训练营",
+      "description": "OpenHarmony竞赛训练营旨在引导高校学生进行OpenHarmony产学研用，培养更多应用型人才和产业需求有效链接，吸引更多的高校师生参与到OpenHarmony的开发和应用中",
+      "category": "competition",
+      "tags": [
+        "OpenHarmony",
+        "AI"
+      ],
+      "date": "2025 年 7 月 15 日 - 9 月下旬",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/gENH9zvMGa4qQUZWLOwcog",
+      "timeline": [
+        {
+          "at": "2025-07-15T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名开始"
+        },
+        {
+          "at": "2025-09-16T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名截止"
+        },
+        {
+          "at": "2025-09-17T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "初赛作品提交截止"
+        },
+        {
+          "at": "2025-09-30T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "入围公示（具体时间待定）"
+        },
+        {
+          "at": "2025-09-30T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "决赛（具体时间待定）"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "oh-media-2025",
+      "title": "开源鸿蒙创新应用挑战赛-媒体格式音视频解码专项",
+      "description": "聚焦格式解封装、音频解码、视频解码三个领域，诚邀开发者深入开源鸿蒙底层多媒体引擎，实现或优化对特定、复杂音视频格式的高效解码支持",
+      "category": "competition",
+      "tags": [
+        "OpenHarmony",
+        "媒体技术",
+        "开放原子"
+      ],
+      "date": "2025 年 8 月 7 日 - 11 月 25 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://competition.atomgit.com/competitionInfo?id=67a2bfabddf910caee6f422ed8760bf0",
+      "timeline": [
+        {
+          "at": "2025-08-07T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名开始"
+        },
+        {
+          "at": "2025-10-15T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名截止"
+        },
+        {
+          "at": "2025-10-17T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "作品提交截止"
+        },
+        {
+          "at": "2025-10-25T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "公布晋级决赛名单"
+        },
+        {
+          "at": "2025-11-10T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "决赛作品提交截止"
+        },
+        {
+          "at": "2025-11-20T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "线下决赛路演及颁奖仪式（拟）"
+        },
+        {
+          "at": "2025-11-25T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "获奖名单公示（拟）"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "vivo-os-2025",
+      "title": "vivo蓝河操作系统创新赛",
+      "description": "开放原子与vivo携手致力于把蓝河操作系统创新赛打造为行业内具有含金量和影响力的Rust赛事，为Rust生态的建设与人才培养搭建高质量交流平台",
+      "category": "competition",
+      "tags": [
+        "操作系统",
+        "Rust",
+        "开放原子"
+      ],
+      "date": "2025 年 8 月 5 日 - 12 月 6 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://competition.atomgit.com/competitionInfo?id=49f0205ecd5c81c96381829456fef6a5",
+      "timeline": [
+        {
+          "at": "2025-08-05T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名开始"
+        },
+        {
+          "at": "2025-09-01T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "线上培训（拟定）"
+        },
+        {
+          "at": "2025-10-20T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "报名及初赛作品提交截止"
+        },
+        {
+          "at": "2025-10-27T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "复赛入围名单及赛题公布"
+        },
+        {
+          "at": "2025-11-16T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "复赛作品提交截止"
+        },
+        {
+          "at": "2025-11-30T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "决赛作品提交截止"
+        },
+        {
+          "at": "2025-12-06T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "决赛路演及颁奖仪式（拟定）"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "opencamp-2025",
+      "title": "清华大学 OpenCamp 2025 秋冬季开源操作系统训练营",
+      "description": "清华大学 OpenCamp 2025 秋冬季开源操作系统训练营现已开启报名与学习通道，面向全国高校学生与一线工程师开放。训练营由清华大学陈渝老师和向勇老师发起，旨在通过使用 Rust 语言编写操作系统的实践，培养学员的操作系统开发技能。",
+      "category": "competition",
+      "tags": [
+        "操作系统",
+        "训练营",
+        "Rust"
+      ],
+      "date": "2025 年 9 月 14 日 - 2025 年 12 月 28 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/cErWjE-8RPNLVVr9BechgQ",
+      "timeline": [
+        {
+          "at": "2025-09-14T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "训练营开始"
+        },
+        {
+          "at": "2025-12-28T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "训练营结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "cie-riscv-2025",
+      "title": "CIE - 玄铁杯 RISC-V 应用创新比赛",
+      "description": "为了推动 RISC-V 技术的创新和应用，中国电子学会组织发起了首届 CIE 全国 RISC-V 高水平创新和应用大赛。作为大赛副主席单位，达摩院（上海）科技有限公司与杭州电子科技大学、龙蜥社区联合命题，设立「CIE - 玄铁杯 RISC-V 应用创新比赛」，邀请全球开发者、高校团队及企业，与我们共同探索 RISC-V 的无限可能。",
+      "category": "competition",
+      "tags": [
+        "RISC-V",
+        "服务器",
+        "AI",
+        "硬件"
+      ],
+      "date": "2025 年 7 月 1 日 - 2025 年 10 月 8 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://rv.cie.org.cn/direction?id=3",
+      "timeline": [
+        {
+          "at": "2025-07-01T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "比赛发布"
+        },
+        {
+          "at": "2025-10-08T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "报名与作品提交截止"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "qemu-camp-2025",
+      "title": "QEMU 训练营 2025",
+      "description": "QEMU 训练营 2025 由格维开源社区（GTOC）主办， OpenCamp 训练营协办，现已开启报名通道，面向对 QEMU 感兴趣的开发者和学习者。训练营旨在通过系统的课程和实践项目，帮助学员深入理解和掌握 QEMU 的使用与开发，提升虚拟化技术能力。",
+      "category": "competition",
+      "tags": [
+        "QEMU",
+        "训练营"
+      ],
+      "date": "2025 年 10 月 12 日 - 2025 年 11 月 23 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/XKfIv0Qjduq8JeHIiQBtrg",
+      "timeline": [
+        {
+          "at": "2025-09-28T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "导学阶段开始"
+        },
+        {
+          "at": "2025-10-12T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "训练营开始"
+        },
+        {
+          "at": "2025-11-23T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "训练营结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "rt-thread-software-2025",
+      "title": "RT-Thread 2025 嵌入式软件大赛",
+      "description": "本赛道为嵌入式软件大赛，聚焦嵌入式软件设计与开发。参赛者需基于 RT-Thread 官方指定的硬件平台，充分利用 RT-Thread 操作系统的核心特性，开发符合该硬件平台赛题方向规定的，高性能、低功耗的嵌入式应用作品，并提交完整的项目设计文档。",
+      "category": "competition",
+      "tags": [
+        "RT-Thread",
+        "嵌入式"
+      ],
+      "date": "2025 年 8 月 16 日 - 2025 年 12 月 7 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/uoznPrNJeHX44plQ_liJAg",
+      "timeline": [
+        {
+          "at": "2025-08-16T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名开始"
+        },
+        {
+          "at": "2025-09-30T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名结束"
+        },
+        {
+          "at": "2025-11-30T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "提交作品"
+        },
+        {
+          "at": "2025-12-01T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "评审开始"
+        },
+        {
+          "at": "2025-12-07T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "评审结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "riscv-openharmony-ai-dev-competition-2025",
+      "title": "基于 RISC-V 芯片和开源鸿蒙操作系统的 AI 应用开发赛",
+      "description": "润开鸿将围绕大赛“软件定义世界 开源共筑未来”主题，强调基于 RISC-V 架构的芯片平台结合开源鸿蒙操作系统的双开源平台，利用 DAYU800A 开发板，开发面向人工智能领域的应用、场景化方案，探索和促进人工智能相关技术在开源鸿蒙操作系统上的发展与应用。",
+      "category": "competition",
+      "tags": [
+        "RISC-V",
+        "开源鸿蒙",
+        "AI 应用开发"
+      ],
+      "date": "2025 年 7 月 1 日 - 2025 年 12 月 31 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://competition.atomgit.com/competitionInfo?id=f90bd619dd856d17039720c0fa6cca3e#heading-0-0",
+      "timeline": [
+        {
+          "at": "2025-07-01T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "大赛开始"
+        },
+        {
+          "at": "2025-12-31T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "大赛结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "optcup-harmony-innovation-2025",
+      "title": "首届“光谷杯”鸿蒙创新大赛",
+      "description": "首届“光谷杯”鸿蒙创新大赛正在报名招募中，旨在推动鸿蒙生态的发展，鼓励创新和应用开发。",
+      "category": "competition",
+      "tags": [
+        "鸿蒙"
+      ],
+      "date": "2025 年 9 月 26 日 - 2025 年 11 月 16 日",
+      "place": "中国，武汉",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/AhGJ464mU1tUXxTxyq6UXw",
+      "timeline": [
+        {
+          "at": "2025-09-26T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "项目征集开始"
+        },
+        {
+          "at": "2025-11-16T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "项目征集结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "open-source-gpu-innovation-2025",
+      "title": "CCF 开源 GPU 创新生态赛常规赛",
+      "description": "第八届 CCF 开源创新大赛常规赛之一的开源 GPU 创新生态赛第一期即将开启。该赛事由中国计算机学会（CCF）主办，开源发展技术委员会（ODTC）承办，聚焦 GPU 技术与开源生态的深度融合，旨在推动国产算力创新及人工智能普惠化发展。赛事设置三大子赛题，提供19万+奖金池，吸引全球开发者、高校团队及企业共同探索 GPU 底层优化、算法加速与生态共建。",
+      "category": "competition",
+      "tags": [
+        "GPU",
+        "人工智能+",
+        "开源生态"
+      ],
+      "date": "2025 年 9 月 15 日 - 2025 年 12 月 30 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/d-9WsAiF_kGZqcI3sJQVWg",
+      "timeline": [
+        {
+          "at": "2025-09-15T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名开始"
+        },
+        {
+          "at": "2025-12-10T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "报名截止"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "open-atom-contest-openloong-2025",
+      "title": "第三届开放原子大赛 OpenLoong 双赛题",
+      "description": "第三届开放原子大赛由开放原子开源基金会主办，OpenLoong 开源社区承办，正式启动两个赛题：“在仿真环境下控制青龙机器人，实现仿真环境下的基础运动控制”和“用格物平台实现自主 1v1 踢足球挑战赛”。大赛旨在通过开源模式解决产业发展、科研创新过程中遇到的技术难题，推广开源技术、发现开源人才，推动人形机器人研究和应用的发展。",
+      "category": "competition",
+      "tags": [
+        "仿真控制",
+        "人形机器人"
+      ],
+      "date": "2025 年 9 月 1 日 - 2025 年 11 月 30 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/ZgtLF3PMfI6_yYnvcVuE0g",
+      "timeline": [
+        {
+          "at": "2025-09-01T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名开始"
+        },
+        {
+          "at": "2025-11-15T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "报名结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "jhun-opensource-agent-dev-2025",
+      "title": "江汉大学开源创新中心智能体开发大赛",
+      "description": "江汉大学开源创新中心举办的智能体开发大赛正式启动。这是武汉“政产学研用”协同创新生态下的AI盛宴，聚焦医疗、新媒体、市场调研三大武汉重点产业场景真实痛点，邀你用开源技术与AI算法破解难题，展现技术才华，还能与全球开发者接轨！",
+      "category": "competition",
+      "tags": [
+        "智能体",
+        "AI 应用开发",
+        "武汉开源创新联盟"
+      ],
+      "date": "2025 年 10 月 10 日 - 2025 年 10 月 24 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/8DCmKkBGVoUY6eDgkqV03w",
+      "timeline": [
+        {
+          "at": "2025-10-10T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名启动"
+        },
+        {
+          "at": "2025-10-12T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "赛题公布"
+        },
+        {
+          "at": "2025-10-21T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "作品提交截止"
+        },
+        {
+          "at": "2025-10-24T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "决赛路演"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "costrict-campus-innovation-2025",
+      "title": "深信服AI创新技术大赛",
+      "description": "深信服发起的\"码上AI·2025深信服 CoStrict 校园挑战赛\"活动，旨在打造一个激发创新、实践想法的舞台，邀请你运用AI编程工具 CoStrict，组队开发惊艳应用，用代码解决真实问题。",
+      "category": "competition",
+      "tags": [
+        "AI 应用开发"
+      ],
+      "date": "2025 年 11 月 12 日 - 2026 年 1 月 16 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://competition.costrict.ai",
+      "timeline": [
+        {
+          "at": "2025-11-12T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名启动"
+        },
+        {
+          "at": "2025-12-20T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "报名结束"
+        },
+        {
+          "at": "2025-12-31T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "作品提交截止"
+        },
+        {
+          "at": "2026-01-16T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "结果公布"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/competitions.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "PaddlePaddleInternship2026",
+      "title": "【实习招募】飞桨 AI Infra 正式实习生招募（长期 / 高含金量项目）",
+      "description": "该项目面向对 大模型训练、分布式系统、AI 编译器、高性能计算、系统工程 等方向有强烈兴趣的开发者与在校同学，采用真实核心项目制 + 双导师制培养模式，深度参与飞桨核心研发工作。实习生通过简历筛选 + 笔试任务评估 + 技术面试后，以线下实习的形式长期深度参与飞桨开源项目开发，项目成果将通过 PR（Pull Request） 方式贡献至飞桨官方仓库，实习周期 不少于 3 个月（部分课题要求 6 个月及以上），优秀同学有转正机会与官方实习证明。",
+      "category": "activity",
+      "tags": [
+        "实习招募",
+        "线下实习"
+      ],
+      "date": "2026年1月4日起长期招募",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://github.com/PaddlePaddle/Paddle/issues/77190",
+      "timeline": [
+        {
+          "at": "2026-01-04T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "tencentopensource2025",
+      "title": "腾讯开源活动",
+      "description": "如何用开源经历敲开大厂之门？从“学生开源贡献者”到“腾讯工卡”，畅聊升级打怪之路!",
+      "category": "activity",
+      "tags": [
+        "腾讯开源",
+        "开源经历"
+      ],
+      "date": "2025年7月19日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/1IMxH4FcZQIu--Key6tA1g",
+      "timeline": [
+        {
+          "at": "2025-07-19T19:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "xingyuandajiangtang-ai2025",
+      "title": "醒源大讲堂第一期",
+      "description": "醒源大讲堂是由开源社主办的围绕开源治理与社区发展的系列线上专题讲座，会在每期邀请相关领域开源专家进行深入分享和交流互动。",
+      "category": "activity",
+      "tags": [
+        "醒源大讲堂",
+        "人工智能开源"
+      ],
+      "date": "2025 年 7 月 8 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/xD3P0m4XcYaoxi9vta1pvg",
+      "timeline": [
+        {
+          "at": "2025-07-08T20:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-07-08T21:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openeulersigarmmeetup-shenzhen2025",
+      "title": "openEuler SIG-Arm Meetup 深圳站",
+      "description": "openEuler SIG-Arm Meetup 深圳站，面向社区开发者和爱好者，分享 Arm 架构在开源领域的应用和发展。",
+      "category": "activity",
+      "tags": [
+        "openEuler",
+        "Arm",
+        "Meetup"
+      ],
+      "date": "2025 年 7 月 18 日",
+      "place": "中国，深圳",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/FOKMP2gQRFZ-r2YhIF_hAw",
+      "timeline": [
+        {
+          "at": "2025-07-18T13:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-07-18T17:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "opencampdocker2025",
+      "title": "OpenCamp 第一期 Docker 训练营",
+      "description": "OpenCamp社区 × 腾讯云CNB平台合作举办。全程线上，免费教学",
+      "category": "activity",
+      "tags": [
+        "OpenCamp",
+        "腾讯云",
+        "Docker"
+      ],
+      "date": "2025年6月29日-8月10日（共6周）",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://opencamp.cn/Docker/camp/202501",
+      "timeline": [
+        {
+          "at": "2025-06-29T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "训练营开始"
+        },
+        {
+          "at": "2025-08-10T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "训练营结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openvelabeijing2025",
+      "title": "openvela 首场城市沙龙",
+      "description": "openvela 开源后首场城市沙龙北京站重磅来袭，小米核心技术团队将分享 openvela 开源 IoT 操作系统的技术内幕！",
+      "category": "activity",
+      "tags": [
+        "openvela",
+        "城市沙龙"
+      ],
+      "date": "2025年7月5日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/kPpiIbnHpW-nus3FUrt4tw",
+      "timeline": [
+        {
+          "at": "2025-07-05T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-07-05T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "spacemitopenkylin250703",
+      "title": "甜“芯”代码局：RISC-V 与 openKylin 的开源狂欢派对",
+      "description": "由进迭时空与 openKylin 社区共同举办的开源狂欢派对。左手甜点、右手代码，在 RISC-V 与 openKylin 的开源世界里，边吃边玩边搞技术！",
+      "category": "activity",
+      "tags": [
+        "RISC-V",
+        "openKylin",
+        "城市沙龙"
+      ],
+      "date": "2025 年 7 月 3 日",
+      "place": "中国，沈阳",
+      "timezone": "Asia/Shanghai",
+      "link": "https://forum.spacemit.com/t/topic/604",
+      "timeline": [
+        {
+          "at": "2025-07-03T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-07-03T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openkylinmeetup-hku2025",
+      "title": "openKylin Meetup 香港大学站",
+      "description": "深度拆解 AI 智能操作系统的核心技术奥秘，聚焦RISC-V架构如何重塑智算时代格局，共探其为操作系统创新带来的颠覆性机遇。",
+      "category": "activity",
+      "tags": [
+        "openKylin",
+        "Meetup"
+      ],
+      "date": "2025年7月19日",
+      "place": "中国，香港",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/b2AMVI_KNyJuQw7WnLPocQ",
+      "timeline": [
+        {
+          "at": "2025-07-19T09:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-07-19T12:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openkylinmeetup-cityuhk2025",
+      "title": "openKylin Meetup 香港城市大学站",
+      "description": "与会嘉宾将分享 openKylin 在 AI 智能操作系统领域的最新研究成果，探讨 RISC-V 架构如何为操作系统创新带来颠覆性机遇。",
+      "category": "activity",
+      "tags": [
+        "openKylin",
+        "Meetup"
+      ],
+      "date": "2025年7月20日",
+      "place": "中国，香港",
+      "timezone": "Asia/Shanghai",
+      "link": "https://www.openkylin.top/support/questionnaire.html?qid=3",
+      "timeline": [
+        {
+          "at": "2025-07-20T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-07-20T17:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "opencamp-infinitensor-2025summer",
+      "title": "InfiniTensor 大模型与人工智能系统训练营",
+      "description": "由启元实验室与清华团队联合发起，旨在系统普及人工智能领域的关键知识，「线上直播授课+ 在线答疑 + 项目实践辅导」，确保每位同学都能获得充分成长。",
+      "category": "activity",
+      "tags": [
+        "大模型",
+        "人工智能系统",
+        "OpenCamp"
+      ],
+      "date": "2025 年 7 月 14 日 - 9 月 30 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://opencamp.cn/InfiniTensor/camp/2025summer",
+      "timeline": [
+        {
+          "at": "2025-07-20T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "报名预热阶段结束，基础考试截止"
+        },
+        {
+          "at": "2025-07-21T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "授课学习阶段开始"
+        },
+        {
+          "at": "2025-08-17T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "授课学习阶段结束"
+        },
+        {
+          "at": "2025-08-18T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "项目实践阶段开始"
+        },
+        {
+          "at": "2025-09-30T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "项目实践阶段结束，训练营结营"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "opensourcemeetyu-2",
+      "title": "源来喻见你系列活动 （二）| 线上操作系统讲座",
+      "description": "邀请两位主讲人分享操作系统社区运营和活动组织经验",
+      "category": "activity",
+      "tags": [
+        "操作系统"
+      ],
+      "date": "2025 年 7 月 19 日 19:30 - 20:30",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/rxi2JRg-HpXMECxmRvIQUg",
+      "timeline": [
+        {
+          "at": "2025-07-19T19:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-07-19T20:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "risc-v-days-beijing-2025",
+      "title": "World RISC-V Days Beijing",
+      "description": "To bring the RISC-V community together globally to share in a synchronized one-day event, executed in the same week, worldwide.",
+      "category": "activity",
+      "tags": [
+        "RISC-V"
+      ],
+      "date": "2025年8月8日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/JYZS2pRX201evWbtqB5uaA",
+      "timeline": [
+        {
+          "at": "2025-08-08T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-08-08T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openharmony-salon-shenzhen-2025",
+      "title": "开源鸿蒙城市技术沙龙深圳站",
+      "description": "沙龙聚焦开源鸿蒙平台上的AI技术应用，旨在构建开源鸿蒙端侧AI技术栈，促进驱动、框架与应用协同创新，为开发者、贡献者及集成方搭建交流合作平台，加速开源鸿蒙生态AI能力落地与智能终端潜能释放。",
+      "category": "activity",
+      "tags": [
+        "AI",
+        "OpenHarmony",
+        "城市沙龙"
+      ],
+      "date": "2025年8月9日",
+      "place": "中国，深圳",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/wuJREfpkormMnRvDC_0_CQ",
+      "timeline": [
+        {
+          "at": "2025-08-09T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-08-09T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "opencamp-rust-compiler-2025autumn",
+      "title": "Rust 编译器开源社区训练营",
+      "description": "训练营面向系统编程与编译技术爱好者，通过 18 周高强度实战，培训内容包括 Rust 基础知识、编译器基本原理、Rust 编译器架构学习和 Rust 编译器实战任务四个阶段课程，目标是培养能够深入理解并贡献 Rust 编译器（rustc）源码的工程师与研究者。",
+      "category": "activity",
+      "tags": [
+        "Rust",
+        "OpenCamp"
+      ],
+      "date": "2025年8月4日-12月20日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://opencamp.ai/rustcompiler/camp/2025fall",
+      "timeline": [
+        {
+          "at": "2025-08-04T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "训练营开始"
+        },
+        {
+          "at": "2025-08-16T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "导学阶段结束"
+        },
+        {
+          "at": "2025-10-18T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "基础阶段结束"
+        },
+        {
+          "at": "2025-11-15T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "专业阶段结束"
+        },
+        {
+          "at": "2025-12-20T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "项目阶段结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openharmony-salon-beijing-2025",
+      "title": "开源鸿蒙城市技术沙龙·北京站",
+      "description": "为响应国家对操作系统安全人才的迫切需求，深化产教融合进程，全力构建以关键核心技术为坚实根基的产业与人才良性互动生态，为此开源鸿蒙 PMC、北京邮电大学网络空间安全学院计划在北京举办基-开源鸿蒙的智能终端安全与实践赋能培训。",
+      "category": "activity",
+      "tags": [
+        "终端安全",
+        "OpenHarmony",
+        "城市沙龙"
+      ],
+      "date": "2025年8月23日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/6JHjzWrfF9pPbWXK9ljjoA",
+      "timeline": [
+        {
+          "at": "2025-08-23T09:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-08-23T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "whlug-8-2025",
+      "title": "WHLUG 开源咖啡局 | 8 月自由畅聊，等你来当主角！",
+      "description": "WHLUG （武汉 Linux 用户组）由 deepin（深度）社区于 1997 年发起创立，创建的初衷是为武汉地区的 Linux 爱好者们提供一个不受外界干扰的技术讨论氛围，让每一个技术爱好者回归技术本质，构建武汉最纯粹的 Linux 技术讨论圈子，持续推动武汉本地开源社区文化的发展。",
+      "category": "activity",
+      "tags": [
+        "Deepin",
+        "Linux用户组"
+      ],
+      "date": "2025年8月23日",
+      "place": "中国，武汉",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/SW0zGvJoMqrdqGvMF46OAw",
+      "timeline": [
+        {
+          "at": "2025-08-23T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-08-23T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openeuler-sig-long-meetup-beijing-2025",
+      "title": "openEuler sig-Long 异构融合技术 Meetup 北京站",
+      "description": "以异构融合技术为核心，深入探讨异构融合技术的发展与落地。",
+      "category": "activity",
+      "tags": [
+        "openEuler",
+        "Meetup"
+      ],
+      "date": "2025 年 8 月 22 日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/QABou9m5QwHVz-sG77kIEA",
+      "timeline": [
+        {
+          "at": "2025-08-22T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-08-22T17:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "vllm-meetup-shanghai-2025",
+      "title": "Shanghai vLLM Community Meetup",
+      "description": "代码不会说谎，但选择会一这一次，做率先吃到技术红利的人。让代码与灵感同频共振!本次活动云集行业顶尖专家，聚焦VLLM技术展开深度研讨，助力开发者精准把握前沿动态、深度参与开源生态建设。",
+      "category": "activity",
+      "tags": [
+        "vLLM",
+        "Meetup"
+      ],
+      "date": "2025 年 8 月 23 日",
+      "place": "中国，上海",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/QHJA90fSEQRNp5oSsf2Sog",
+      "timeline": [
+        {
+          "at": "2025-08-23T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-08-23T17:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "vllm-meetup-深圳-2025",
+      "title": "vLLM Shenzhen Meetup",
+      "description": "重磅汇聚来自腾讯、华为、北京大学、上海交大等多方技术团队的一线专家，聚焦vLLM在算子优化、模型推理部署以及强化学习融合等方面的最新进展与实战经验，与众多开发者共同探索高效、高性能推理的下一站。",
+      "category": "activity",
+      "tags": [
+        "vLLM",
+        "Meetup"
+      ],
+      "date": "2025 年 8 月 30 日",
+      "place": "中国，深圳",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/QHJA90fSEQRNp5oSsf2Sog",
+      "timeline": [
+        {
+          "at": "2025-08-30T13:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-08-30T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openeuler-diverse-computing-meetup-beijing-2025",
+      "title": "openEuler 多样性算力 Meetup 北京站",
+      "description": "进一步聚焦多样性算力，汇聚各方力量，深入交流创新实践与技术成果，携手推动多样性算力的落地与生态繁荣。",
+      "category": "activity",
+      "tags": [
+        "openEuler",
+        "Meetup"
+      ],
+      "date": "2025 年 9 月 6 日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/5O3q6-dEa9qJ5ScDVUOWSA",
+      "timeline": [
+        {
+          "at": "2025-09-06T13:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-09-06T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "tidb-xian-2025",
+      "title": "TiDB 社区活动（西安站）",
+      "description": "TiDB 社区活动来到西安，探讨智慧城市、智能制造（半导体）、疾控、生活服务等行业的核心系统数据库选型和架构升级，以及 TiDB 对业务的实际赋能。",
+      "category": "activity",
+      "tags": [
+        "TiDB",
+        "数据库"
+      ],
+      "date": "2025 年 9 月 13 日 13:00 - 17:30",
+      "place": "中国，西安",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/Vsx790WS_vITp3Dt0OpiXQ",
+      "timeline": [
+        {
+          "at": "2025-09-13T13:00:00+08:00",
+          "dayOnly": false,
+          "comment": "签到 & 玩游戏赢周边 & 畅聊时间"
+        },
+        {
+          "at": "2025-09-13T13:50:00+08:00",
+          "dayOnly": false,
+          "comment": "活动正式开始"
+        },
+        {
+          "at": "2025-09-13T17:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "chitu-first-meetup-2025",
+      "title": "Chitu First Meetup",
+      "description": "清程极智多位技术专家将分享 Chitu 项目最新技术成果，并聚焦 Chitu 应用交付与部署，分享实际操作经验与 Chitu 项目最佳实践，社区的开发者也将分享在使用 Chitu 过程中的心得体会和应用案例。",
+      "category": "activity",
+      "tags": [
+        "Chitu",
+        "Meetup"
+      ],
+      "date": "2025 年 9 月 13 日 13:30 - 17:00",
+      "place": "中国，杭州",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/iTpI2VGnKmGykErd_KDQ2g",
+      "timeline": [
+        {
+          "at": "2025-09-13T13:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始时间"
+        },
+        {
+          "at": "2025-09-13T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "ai-salon-chengdu-2025",
+      "title": "模力方舟 AI 应用开发沙龙第七站（成都站）",
+      "description": "模力方舟 AI 应用开发沙龙即将迎来第七站——成都。本期沙龙聚焦 AI 应用在开发范式、算力架构、交互设计与开源社区等关键环节中的跨场景创新实践，汇聚产业领袖、技术专家与一线开发者，推动川渝地区开发者生态建设与产业智能化升级。",
+      "category": "activity",
+      "tags": [
+        "AI",
+        "城市沙龙"
+      ],
+      "date": "2025 年 09 月 20 日 13:30 - 17:00",
+      "place": "中国，成都",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/E_Cm8I8Ap5oPZgoLb8ma_g",
+      "timeline": [
+        {
+          "at": "2025-09-20T13:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-09-20T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "open-saturday-2025",
+      "title": "Gitcode 开源星期六第二期",
+      "description": "由 GitCode 开源社区倾力打造的「开源星期六」线下开发者交流活动第二期即将上线。本次交流活动以三方库鸿蒙化为核心主题，诚邀研究三方库移植、探索鸿蒙、热爱开源的伙伴参与，共同探讨技术碰撞，推动开源生态发展。",
+      "category": "activity",
+      "tags": [
+        "三方库移植",
+        "鸿蒙",
+        "技术交流"
+      ],
+      "date": "2025 年 09 月 13 日 14:00 - 17:00",
+      "place": "中国，深圳",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/TAZh0b_v5BzWrh4KgLeyQQ",
+      "timeline": [
+        {
+          "at": "2025-09-10T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名开始"
+        },
+        {
+          "at": "2025-09-12T20:00:00+08:00",
+          "dayOnly": false,
+          "comment": "报名截止"
+        },
+        {
+          "at": "2025-09-13T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-09-13T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "ccf-open-source-college-HLJUST-2025",
+      "title": "CCF 开源高校行-黑龙江科技大学",
+      "description": "CCF 开源高校行-黑龙江科技大学「开源大咖和你一起，感悟开源」。“开源高校行”是 CCF (中国计算机学会)开源发展技术委员会教育组开展的活动，旨在高校加强开源文化宣传和开源人才培养，活动包含开源课堂、开源项目、开源论坛等多种类型。",
+      "category": "activity",
+      "tags": [
+        "开源",
+        "CCF"
+      ],
+      "date": "2025 年 09 月 20 日 14:30 - 17:00",
+      "place": "中国，哈尔滨",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/ZMeLsm3EuxEPKYt-LSwMcw",
+      "timeline": [
+        {
+          "at": "2025-09-20T14:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-09-20T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openGauss-Meetup-2025-Chengdu",
+      "title": "openGauss Meetup 成都站",
+      "description": "openGauss 社区将于9月27日在成都举办 Meetup，分享数据库在向量数据、RISC-V 生态及企业应用等创新实践，推动技术交流与生态发展。",
+      "category": "activity",
+      "tags": [
+        "openGauss",
+        "数据库"
+      ],
+      "date": "2025 年 09 月 27 日 13:00 - 17:00",
+      "place": "中国，成都",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/heYxLP9-vKz6TYTEHZ2-qw",
+      "timeline": [
+        {
+          "at": "2025-09-27T13:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-09-27T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openGauss-openEuler-Meetup-2025-Xian",
+      "title": "openEuler & openGauss Meetup 西安站",
+      "description": "OpenAtom openEuler（简称：“openEuler”或“开源欧拉”）、openGauss 社区、西北工业大学联合举办的 openEuler & openGauss Meetup 将在西安举行，诚邀数据库开发者、操作系统爱好者及企业技术专家共同参与！",
+      "category": "activity",
+      "tags": [
+        "openGauss",
+        "openEuler",
+        "数据库",
+        "操作系统"
+      ],
+      "date": "2025 年 09 月 26 日",
+      "place": "中国，西安",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/4-N0QoyecGq-B4rVD3sS7Q",
+      "timeline": [
+        {
+          "at": "2025-09-26T13:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-09-26T17:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openEuler-middleware-Meetup-2025-Wuhan",
+      "title": "openEuler 云原生开源中间件 Meetup 武汉站",
+      "description": "openEuler 云原生开源中间件 Meetup 武汉站将在武汉职业技术大学关山校区召开，专家将分享基于轻舟 API 的高效开发以及有关 TongRDS 中间件有关的 openEuler 开源中间件技术。",
+      "category": "activity",
+      "tags": [
+        "openEuler",
+        "中间件"
+      ],
+      "date": "2025 年 09 月 25 日",
+      "place": "中国，武汉",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/f_w1lNaYU3H2nu_q6R-B0A",
+      "timeline": [
+        {
+          "at": "2025-09-25T13:45:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-09-25T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openvela-shanghai-salon",
+      "title": "openvela 城市沙龙（上海站）",
+      "description": "由 openvela 开源社区主办的 openvela 城市沙龙·上海站即将开启，聚焦物联网操作系统前沿技术演进与产业级典型落地案例。本次沙龙邀请了 AIoT 产业链技术专家、资深开源开发者及行业领军企业代表，共同探讨 AIoT 开源操作系统的未来发展方向，旨在推动 AIoT 技术落地与场景拓展，加速 AIoT 产业生态的繁荣生长。",
+      "category": "activity",
+      "tags": [
+        "openvela",
+        "AIoT",
+        "物联网"
+      ],
+      "date": "2025 年 9 月 20 日",
+      "place": "中国，上海",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/8CX7qxVHCvb6e1K4Ya427A",
+      "timeline": [
+        {
+          "at": "2025-09-20T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-09-20T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "ccf-open-source-tour-2025",
+      "title": "CCF 开源高校行——哈尔滨工程大学、哈尔滨工业大学",
+      "description": "在数字化转型的浪潮中，开源人才的培养是信息技术创新发展的重要根基，高校学子作为我国开源生态的源头活水备受重视。9 月 22 日，CCF 开源发展技术委员会 “开源高校行” 暨红山开源 × openKylin 高校行活动将走进哈尔滨工程大学和哈尔滨工业大学，与两校师生交流分享开源经验，共同推进开源教育，建立产学研用一体化开源创新人才培养体系",
+      "category": "activity",
+      "tags": [
+        "CCF"
+      ],
+      "date": "2025 年 9 月 22 日",
+      "place": "中国，哈尔滨",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/fVCftOIV491w3Hjibq9EIg",
+      "timeline": [
+        {
+          "at": "2025-09-22T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "哈尔滨工程大学站开始"
+        },
+        {
+          "at": "2025-09-22T16:30:00+08:00",
+          "dayOnly": false,
+          "comment": "哈尔滨工程大学站结束"
+        },
+        {
+          "at": "2025-09-22T19:00:00+08:00",
+          "dayOnly": false,
+          "comment": "哈尔滨工业大学站开始"
+        },
+        {
+          "at": "2025-09-22T20:00:00+08:00",
+          "dayOnly": false,
+          "comment": "哈尔滨工业大学站结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "ccf-open-source-tour-shenzhen-2025",
+      "title": "CCF 开源高校行——深圳技术大学、深圳大学、中山大学",
+      "description": "CCF 开源发展技术委员会“开源高校行”活动将于 9 月 26 日- 27 日走进深圳技术大学、深圳大学和中山大学。本次活动由红山开源平台、openKylin、粤港澳大湾区数字经济研究院等单位共同组织，旨在与广大师生交流分享开源经验，共同推进开源教育，建立产学研用一体化开源创新人才培养体系。",
+      "category": "activity",
+      "tags": [
+        "CCF"
+      ],
+      "date": "2025 年 9 月 26 日 - 2025 年 9 月 27 日",
+      "place": "中国，深圳",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/LcS6zIfkRgT_PZ5NqqRIGw",
+      "timeline": [
+        {
+          "at": "2025-09-26T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "深圳技术大学站开始"
+        },
+        {
+          "at": "2025-09-26T16:30:00+08:00",
+          "dayOnly": false,
+          "comment": "深圳技术大学站结束"
+        },
+        {
+          "at": "2025-09-26T19:00:00+08:00",
+          "dayOnly": false,
+          "comment": "深圳大学站开始"
+        },
+        {
+          "at": "2025-09-26T21:30:00+08:00",
+          "dayOnly": false,
+          "comment": "深圳大学站结束"
+        },
+        {
+          "at": "2025-09-27T15:30:00+08:00",
+          "dayOnly": false,
+          "comment": "中山大学站开始"
+        },
+        {
+          "at": "2025-09-27T17:30:00+08:00",
+          "dayOnly": false,
+          "comment": "中山大学站结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "ai-game-open-source-2025",
+      "title": "开源 × AI × 游戏——新世代开发者的技术狂欢",
+      "description": "活动邀请飞桨、BiliNote、昆明游戏开发者、SRC 安全社区、开源游戏引擎 Dora SSR 的开发者们，共同带来一场「AI × 游戏 × 开源」的跨界分享。活动包括 AI 文档智能、开源工具、游戏主机开发、安全逆向测试和开源文化等多个主题，适合技术极客、开源贡献者和游戏爱好者参加。",
+      "category": "activity",
+      "tags": [
+        "AI",
+        "游戏开发"
+      ],
+      "date": "2025 年 10 月 18 日",
+      "place": "中国，昆明",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/BIwPL11fWPO1WRRZ1-Tecw",
+      "timeline": [
+        {
+          "at": "2025-10-18T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-10-18T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "open-ai-infra-forum-cncc-2025",
+      "title": "开源 AI 基础设施论坛 - “国芯+国模”下开源 AI Infra 的机遇与挑战 | CNCC",
+      "description": "本次论坛聚焦开源 AI 基础设施，旨在开源模式下，通过技术协同与生态共建，推动行业降本增效与创新突破。论坛将从 AI Infra 开源进展，开源大模型训练和推理技术解析、大模型技术体系开源开放分级评估规范、GPU 开源生态建设、云原生 Infra Services 等各个维度进行深度探讨。",
+      "category": "activity",
+      "tags": [
+        "AI",
+        "GPU",
+        "云原生"
+      ],
+      "date": "2025 年 10 月 22 日# 人类可读的日期范围",
+      "place": "中国，哈尔滨",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/tKV3V_4Opjd0T42qU_DOIg",
+      "timeline": [
+        {
+          "at": "2025-10-22T00:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-10-25T23:59:59+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "deepin-gitcode-meetup-2025",
+      "title": "deepin & GitCode Meetup - 大湾区开发者盛会",
+      "description": "deepin 联合 GitCode 在深圳举办一场面向未来的开发者盛会，旨在汇聚一线开发者、贡献者、生态推动者，共同探讨操作系统技术的生态未来。活动内容包括生态视野、内核视角、开发实践等主题演讲，以及茶歇、抽奖和自由交流环节。",
+      "category": "activity",
+      "tags": [
+        "Deepin",
+        "GitCode"
+      ],
+      "date": "2025 年 10 月 18 日",
+      "place": "中国，深圳",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/NDztoW6Tqx-srRZiNWgNyQ",
+      "timeline": [
+        {
+          "at": "2025-10-18T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-10-18T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openEuler-compiler-sig-Meetup-2025-Beijing",
+      "title": "openEuler Compiler SIG Meetup 北京站",
+      "description": "openEuler Compiler SIG Meetup 北京站将在北京中关村理工大学亚朵 S 酒店召开，专家将分享 openEuler Compiler SIG 运作介绍以及 AI 图编译技术等内容。",
+      "category": "activity",
+      "tags": [
+        "openEuler",
+        "编译器"
+      ],
+      "date": "2025 年 10 月 16 日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/qJnabiweOMMYG1k4JFpXYA",
+      "timeline": [
+        {
+          "at": "2025-10-16T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-10-16T17:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "gitcode-opensource-sichuan-swpu-2025",
+      "title": "开源川行 · 西南石油大学站",
+      "description": "GitCode 将与西南石油大学、华为云联合举办「开源川行第三站——走进西南石油大学」主题技术沙龙！GitCode 将助力西南石油大学开源社团建设，推动校园开源文化深入发展。华为云等企业现场设立展台，提供实习/内推机会，链接学子与行业。开源社区嘉宾带领现场编码，零距离感受开源项目贡献流程。",
+      "category": "activity",
+      "tags": [
+        "GitCode",
+        "华为云"
+      ],
+      "date": "2025 年 10 月 16 日",
+      "place": "中国，成都",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/-7NXDb4jwqGQt6aJncEQOw",
+      "timeline": [
+        {
+          "at": "2025-10-16T16:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-10-16T18:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openEuler-embodied-intelligence-Meetup-2025-Xian",
+      "title": "openEuler 具身智能技术 Meetup 西安站",
+      "description": "OpenAtom openEuler Embedded SIG 联合 AGIROS 共性算法框架 SIG 举办的具身智能技术 Meetup 将在西安站举行。本次 Meetup 将围绕具身智能相关技术，包括但不限于 ROS、AI 框架、OS 底座、具身 Agent、行业优秀案例以及行业发展趋势等进行分享及探讨。",
+      "category": "activity",
+      "tags": [
+        "openEuler",
+        "具身智能"
+      ],
+      "date": "2025 年 10 月 23 日",
+      "place": "中国，西安",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/_FaVuHIqjt1mZawibPQmew",
+      "timeline": [
+        {
+          "at": "2025-10-23T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-10-23T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "huawei-opensource-oseco-5th-2025",
+      "title": "华为开源生态大讲堂第五讲：浅谈开源操作系统的生态建设",
+      "description": "华为开源特邀中科院软件所副所长武延军在本次直播中，探讨开源软件生态的痛点与解题之道，作为openEuler、OpenHarmony开源社区，以及RISC-V指令集生态的深度参与者，整理近年来实践中的一些心得体会，从开源软件供应链的角度，梳理开源操作系统生态建设的痛点、难点和要素，并提出一些可能的路径，希望能够助力中国操作系统的可持续高质量发展。",
+      "category": "activity",
+      "tags": [
+        "华为开源",
+        "操作系统"
+      ],
+      "date": "2025 年 10 月 17 日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/WZtz7t7PrSxKMlrbmkt9IA",
+      "timeline": [
+        {
+          "at": "2025-10-17T17:00:00+08:00",
+          "dayOnly": false,
+          "comment": "讲堂开始"
+        },
+        {
+          "at": "2025-10-17T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "讲堂结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openharmony-riscv-techsalon-beijing-2025",
+      "title": "开源鸿蒙城市技术沙龙·北京站——开源鸿蒙 & RISC-V 技术融合交流会",
+      "description": "为推动 OpenHarmony 和 RISC-V 两大生态深度协同、促进技术交流与资源整合，由开源鸿蒙项目管理委员会、开源鸿蒙 RISC-V SIG、如意 RISC-V 原生社区联合主办的 “开源鸿蒙城市技术沙龙·北京站——开源鸿蒙 & RISC-V 技术融合交流会”将于10月22日在北京正式启动。",
+      "category": "activity",
+      "tags": [
+        "开源鸿蒙",
+        "RISC-V"
+      ],
+      "date": "2025 年 10 月 22 日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/8-eWQuKh9LuW07re-NcAEw",
+      "timeline": [
+        {
+          "at": "2025-10-22T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-10-22T17:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openatom-campus-shanghai-2025",
+      "title": "开放原子校源行（上海站）",
+      "description": "开放原子校源行（上海站）将在复旦大学邯郸校区重磅开启，院士专家、高校代表、头部企业大咖与上海多所高校师生齐聚，以思想碰撞点燃开源热情，以实践探索赋能人才成长。推动用开源贡献来验证学生能力的开源人才评价改革试点工作落地，复旦大学首次评选并表彰 “开源先锋”。聚焦开源人工智能领域，深化高校与产业合作实践。混元等多个顶尖开源项目走进复旦大学，为师生提供一线项目实践机会。院士领衔，联合一线开源人工智能社区专家组成权威阵容，深度解读行业前沿技术，破解技术发展核心密码。",
+      "category": "activity",
+      "tags": [
+        "开放原子",
+        "校源行"
+      ],
+      "date": "2025 年 10 月 15 日",
+      "place": "中国，上海",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/IY9IzizCuETLKG-9UfCqIA",
+      "timeline": [
+        {
+          "at": "2025-10-15T09:00:00+08:00",
+          "dayOnly": false,
+          "comment": "主论坛开始"
+        },
+        {
+          "at": "2025-10-15T11:40:00+08:00",
+          "dayOnly": false,
+          "comment": "主论坛结束"
+        },
+        {
+          "at": "2025-10-15T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "动手实践课堂开始"
+        },
+        {
+          "at": "2025-10-15T16:30:00+08:00",
+          "dayOnly": false,
+          "comment": "动手实践课堂结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "multimodal-agentic-ai-beijing-2025",
+      "title": "多模态数据湖与 Agentic AI——构建企业智能基座技术研讨会",
+      "description": "聚焦企业智能化核心挑战，通过多模态数据湖与 Agentic AI 技术闭环，提供端到端智能基座解决方案。活动涵盖数据平台重构、AI 开发范式革新、向量数据库应用及多模态集成实践，包含主题演讲与动手实验环节。",
+      "category": "activity",
+      "tags": [
+        "Agentic AI",
+        "企业智能化"
+      ],
+      "date": "2025 年 10 月 18 日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/49GZZDKLzYfpbO2K1IJpMw",
+      "timeline": [
+        {
+          "at": "2025-10-18T13:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-10-18T17:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "opentenbase-chengdu-2025",
+      "title": "OpenTenBase 城市行成都站",
+      "description": "OpenTenBase 城市行将走进成都！我们特别邀请多位数据库领域资深专家，与成都的开发者朋友、数据库技术爱好者齐聚一堂，深度拆解 OpenTenBase 5.0 的新架构逻辑、解读实用新特性，还会分享真实场景下的实践应用案例，更将共同展望社区未来发展方向，干货满满，不容错过！",
+      "category": "activity",
+      "tags": [
+        "OpenTenBase"
+      ],
+      "date": "2025 年 11 月 1 日",
+      "place": "中国，成都",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/qyl-VRB7AN3HTM-rGotI5Q",
+      "timeline": [
+        {
+          "at": "2025-11-01T13:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-11-01T17:40:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "kcd-oid-hangzhou-2025",
+      "title": "KCD 杭州站 x OpenInfra Days China",
+      "description": "杭州即将迎来一场重量级技术盛宴 —— KCD 杭州站与 OpenInfra Days China 的首次携手。KCD（Kubernetes Community Days，Kubernetes 社区日）由本土社区组织，得到云原生计算基金会（CNCF）的支持；OID（OpenInfra Days，开放基础设施开发者日）由本地用户组主办，获 OpenInfra 基金会支持。两者均包含主题演讲、分组会议，汇聚了开源生态的用户和开发者，旨在促进教育、协作和交流。",
+      "category": "activity",
+      "tags": [
+        "Kubernates",
+        "OpenInfra",
+        "CNCF"
+      ],
+      "date": "2025 年 11 月 15 日",
+      "place": "中国，杭州",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/eGny5_A4UutC6GzxcVY7EA",
+      "timeline": [
+        {
+          "at": "2025-11-15T09:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-11-15T17:45:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "gitcode-campus-hust-2025",
+      "title": "GitCode「源启高校」 华中科技大学站",
+      "description": "11 月 1 日，GitCode「源启高校」计划将走进华中科技大学，以「AI 上开源，AI 上 Coding」为题，与华科学子共同探讨 AI 时代下的开源技术与创新实践。",
+      "category": "activity",
+      "tags": [
+        "GitCode"
+      ],
+      "date": "2025 年 11 月 1 日",
+      "place": "中国，武汉",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/1VIrDmx1plHhl2MFHIKQwg",
+      "timeline": [
+        {
+          "at": "2025-11-01T14:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-11-01T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "google-devfest-hangzhou-2025",
+      "title": "Google DevFest Hangzhou 2025",
+      "description": "DevFest 是由 Google 发起、全球各地 GDG（Google Developer Groups，谷歌开发者社区）举办的一年一度的开发者盛会，专为互联网技术从业者举办的年度大型面基会、技术交流碰撞会、前沿新技术学习。作为全球 GDG 的主要成员，杭州谷歌开发者社区将于 11 月 1 日举办 DevFest 活动，本次活动集主题演讲、Workshop、出海加速、圆桌讨论、AI集市等为一体，让开发者了解最新谷歌技术、体验前沿谷歌产品，更有丰富的社区学习板块、AI 产品体验板块让你打开视野，全方位沉浸到 AI 的技术世界。",
+      "category": "activity",
+      "tags": [
+        "Google",
+        "DevFest"
+      ],
+      "date": "2025 年 11 月 1 日",
+      "place": "中国，杭州",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/RVUEQipG4N7NwHvENKYuxg",
+      "timeline": [
+        {
+          "at": "2025-11-01T09:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-11-01T18:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "google-devfest-beijing-2025",
+      "title": "Google DevFest Beijing 2025",
+      "description": "DevFest 2025 现已开启！今年，我们将深入探讨 AI、Google Cloud 出海、Android、Web 等核心领域，并设有专属的 Workshop 动手环节，带您从理论到实践，打通技术应用的最后一公里。自 2012 年起，北京 GDG 已连续 14 年盛大举办这一开发者盛宴。现在，我们诚挚邀请您加入这场技术与创新的碰撞。活动汇聚了来自 Google 官方、谷歌开发者专家 (GDE) 及资深社区讲师的强大阵容，分享独家洞察与实战心得。",
+      "category": "activity",
+      "tags": [
+        "Google",
+        "DevFest"
+      ],
+      "date": "2025 年 11 月 9 日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/51u87qDLGcR6dX7Z_ZebWA",
+      "timeline": [
+        {
+          "at": "2025-11-09T10:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-11-09T17:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openloong-college-beijing-2025",
+      "title": "OpenLoong 高校行 北京科技大学站",
+      "description": "DORA 社区受邀与 OpenLoong 开源社区联合主办本次高校行活动，届时将携手北京智源人工智能研究院、GitCode 等国内顶尖力量，共同深挖开源技术在具身智能与人形机器人领域的落地路径。",
+      "category": "activity",
+      "tags": [
+        "OpenLoong",
+        "DORA"
+      ],
+      "date": "2025 年 11 月 8 日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/WveAJQFGRKlVJDy8FrW4Mg",
+      "timeline": [
+        {
+          "at": "2025-11-08T13:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-11-08T16:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openharmony-arkdata-enabling-streaming-lesson-2",
+      "title": "开源鸿蒙 AI 赋能系列技术直播课 第二期",
+      "description": "龚阿世，华为鸿蒙 ArkData AI 数据底座架构师操作系统数据管理领域技术专家，主要研究分布式数据库与多模态数据库，擅长智能检索、RAG 及知识图谱，将分享有关 ArkData AI 数据底座的主要定位及面向办公场景的若干应用相关话题。",
+      "category": "activity",
+      "tags": [
+        "OpenHarmony",
+        "开放原子",
+        "ArkData"
+      ],
+      "date": "2025 年 11 月 4 日",
+      "place": "线上",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/tbIzMoN8oL2YSHREPWutIg",
+      "timeline": [
+        {
+          "at": "2025-11-04T19:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-11-04T20:00:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "cann-meetup-beijing-2025",
+      "title": "CANN Meetup 北京站 | 11月15日，邀您共赴一场技术盛宴",
+      "description": "本次活动汇聚来自 TileAI 社区、xLLM 推理引擎社区、算力软件服务商清程极智、AI 训练平台 SwanLab 等组织的技术专家。立足 CANN 开源，我们将共同探索 AscendC、CATLASS、PyPTO、TileLang-Ascend 如何纷呈创新，实现高效开发。我们还将与您共享大模型的优化实践，希望参会朋友受到启发并发现人工智能技术生态中的合作机会。",
+      "category": "activity",
+      "tags": [
+        "CANN",
+        "Ascend"
+      ],
+      "date": "2025 年 11 月 15 日",
+      "place": "中国，北京",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/imVzEaJP3cUk7-xrsREe3w",
+      "timeline": [
+        {
+          "at": "2025-11-15T13:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-11-15T17:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "openatom-campus-udalian-2025",
+      "title": "开放原子校源行（大连大学站）",
+      "description": "开放原子校源行（大连大学站）将于 11月 11日在大连大学拉开帷幕。本次活动以“开源赋能，创新未来”为主题，旨在向大学生普及开源知识、培养开源意识，并通过技术分享和动手实验，提升学生的开源实践能力。最终目标是激发学生创新精神，培养未来开源人才，助力中国开源事业持续发展。",
+      "category": "activity",
+      "tags": [
+        "开放原子",
+        "校源行",
+        "OpenTenBase"
+      ],
+      "date": "2025 年 11 月 11 日",
+      "place": "中国，大连",
+      "timezone": "Asia/Shanghai",
+      "link": "https://mp.weixin.qq.com/s/OENe_NvhSbDKpdWe4uS-zg",
+      "timeline": [
+        {
+          "at": "2025-11-11T09:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动开始"
+        },
+        {
+          "at": "2025-11-11T11:30:00+08:00",
+          "dayOnly": false,
+          "comment": "活动结束"
+        }
+      ],
+      "sourceName": "Open Source Deadlines 社区收录",
+      "sourceUrl": "https://github.com/hust-open-atom-club/open-source-deadlines/blob/8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf/data/activities.yml",
+      "verifiedOn": null
+    },
+    {
+      "id": "kubecon-na-2026",
+      "title": "KubeCon + CloudNativeCon North America 2026",
+      "description": "Kubernetes、云原生与开源基础设施开发者大会。11 月 9 日为会前活动，11 月 10–12 日为主会。",
+      "category": "conference",
+      "tags": [
+        "云原生",
+        "Kubernetes"
+      ],
+      "link": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/",
+      "sourceUrl": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/attend/faq/",
+      "sourceName": "CNCF / Linux Foundation 官网",
+      "verifiedOn": "2026-10-16",
+      "date": "2026 年 11 月 9–12 日",
+      "place": "美国 · 盐湖城（线下）",
+      "timezone": "America/Denver",
+      "timeline": [
+        {
+          "at": "2026-11-09T00:00:00-07:00",
+          "dayOnly": true,
+          "comment": "会期开始"
+        },
+        {
+          "at": "2026-11-12T00:00:00-07:00",
+          "dayOnly": true,
+          "comment": "会期结束"
+        }
+      ]
+    },
+    {
+      "id": "fosdem-2027",
+      "title": "FOSDEM 2027",
+      "description": "面向自由与开源软件开发者的社区大会。主会演讲征集已公布，会议于比利时布鲁塞尔举行。",
+      "category": "conference",
+      "tags": [
+        "自由软件",
+        "开源社区"
+      ],
+      "link": "https://fosdem.org/2027/",
+      "sourceUrl": "https://fosdem.org/2027/news/call-for-main-track/",
+      "sourceName": "FOSDEM 官方公告",
+      "verifiedOn": "2026-10-16",
+      "date": "2027 年 1 月 30–31 日",
+      "place": "比利时 · 布鲁塞尔（线下）",
+      "timezone": "Europe/Brussels",
+      "timeline": [
+        {
+          "at": "2026-11-16T00:00:00+01:00",
+          "dayOnly": true,
+          "comment": "主会演讲投稿截止"
+        },
+        {
+          "at": "2027-01-30T00:00:00+01:00",
+          "dayOnly": true,
+          "comment": "会期开始"
+        },
+        {
+          "at": "2027-01-31T00:00:00+01:00",
+          "dayOnly": true,
+          "comment": "会期结束"
+        }
+      ]
+    }
+  ]
+}
