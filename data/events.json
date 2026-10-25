@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-24T12:33:39+08:00",
+  "syncedAt": "2026-10-25T12:38:01+08:00",
   "upstreamCommit": "8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf",
   "upstreamUpdatedAt": "2026-10-14T11:59:57Z",
   "upstreamUrl": "https://github.com/hust-open-atom-club/open-source-deadlines",
@@ -8,15 +8,15 @@
       "key": "codeforces",
       "url": "https://codeforces.com/api/contest.list?gym=false",
       "status": "ok",
-      "count": 6,
-      "fetchedAt": "2026-10-24T12:33:39+08:00"
+      "count": 5,
+      "fetchedAt": "2026-10-25T12:38:00+08:00"
     },
     {
       "key": "atcoder",
       "url": "https://atcoder.jp/contests/",
       "status": "ok",
-      "count": 7,
-      "fetchedAt": "2026-10-24T12:33:39+08:00"
+      "count": 6,
+      "fetchedAt": "2026-10-25T12:38:01+08:00"
     }
   ],
   "items": [
@@ -3385,7 +3385,7 @@
       "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
       "sourceName": "Codeforces 官方 API",
       "sourceKey": "codeforces",
-      "retrievedOn": "2026-10-24",
+      "retrievedOn": "2026-10-25",
       "verifiedOn": null,
       "date": "2026-11-07",
       "place": "线上",
@@ -3417,7 +3417,7 @@
       "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
       "sourceName": "Codeforces 官方 API",
       "sourceKey": "codeforces",
-      "retrievedOn": "2026-10-24",
+      "retrievedOn": "2026-10-25",
       "verifiedOn": null,
       "date": "2026-11-07",
       "place": "线上",
@@ -3449,7 +3449,7 @@
       "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
       "sourceName": "Codeforces 官方 API",
       "sourceKey": "codeforces",
-      "retrievedOn": "2026-10-24",
+      "retrievedOn": "2026-10-25",
       "verifiedOn": null,
       "date": "2026-11-05",
       "place": "线上",
@@ -3481,7 +3481,7 @@
       "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
       "sourceName": "Codeforces 官方 API",
       "sourceKey": "codeforces",
-      "retrievedOn": "2026-10-24",
+      "retrievedOn": "2026-10-25",
       "verifiedOn": null,
       "date": "2026-10-31",
       "place": "线上",
@@ -3513,7 +3513,7 @@
       "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
       "sourceName": "Codeforces 官方 API",
       "sourceKey": "codeforces",
-      "retrievedOn": "2026-10-24",
+      "retrievedOn": "2026-10-25",
       "verifiedOn": null,
       "date": "2026-10-26",
       "place": "线上",
@@ -3526,70 +3526,6 @@
         },
         {
           "at": "2026-10-26T16:50:00+00:00",
-          "dayOnly": false,
-          "comment": "比赛结束"
-        }
-      ]
-    },
-    {
-      "id": "codeforces-2277",
-      "title": "Codeforces Round 1129 (Div. 2)",
-      "description": "Codeforces 官方排期的线上算法赛。参赛范围、Rated 规则及报名要求请查看对应比赛公告。",
-      "category": "competition",
-      "tags": [
-        "算法",
-        "Codeforces",
-        "线上"
-      ],
-      "link": "https://codeforces.com/contest/2277",
-      "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
-      "sourceName": "Codeforces 官方 API",
-      "sourceKey": "codeforces",
-      "retrievedOn": "2026-10-24",
-      "verifiedOn": null,
-      "date": "2026-10-24",
-      "place": "线上",
-      "timezone": "UTC",
-      "timeline": [
-        {
-          "at": "2026-10-24T11:05:00+00:00",
-          "dayOnly": false,
-          "comment": "比赛开始"
-        },
-        {
-          "at": "2026-10-24T13:20:00+00:00",
-          "dayOnly": false,
-          "comment": "比赛结束"
-        }
-      ]
-    },
-    {
-      "id": "atcoder-abc481",
-      "title": "SMBC Programming Contest #2 (AtCoder Beginner Contest 481）",
-      "description": "AtCoder 官方赛程中的线上编程比赛。时长 1 小时 40 分钟；Rated 范围：- 1999。资格及生成式 AI 使用规则以比赛页面为准。",
-      "category": "competition",
-      "tags": [
-        "算法",
-        "AtCoder",
-        "线上"
-      ],
-      "link": "https://atcoder.jp/contests/abc481",
-      "sourceUrl": "https://atcoder.jp/contests/",
-      "sourceName": "AtCoder 官方赛程",
-      "sourceKey": "atcoder",
-      "retrievedOn": "2026-10-24",
-      "verifiedOn": null,
-      "date": "2026-10-24",
-      "place": "线上",
-      "timezone": "Asia/Tokyo",
-      "timeline": [
-        {
-          "at": "2026-10-24T21:00:00+09:00",
-          "dayOnly": false,
-          "comment": "比赛开始"
-        },
-        {
-          "at": "2026-10-24T22:40:00+09:00",
           "dayOnly": false,
           "comment": "比赛结束"
         }
@@ -3609,7 +3545,7 @@
       "sourceUrl": "https://atcoder.jp/contests/",
       "sourceName": "AtCoder 官方赛程",
       "sourceKey": "atcoder",
-      "retrievedOn": "2026-10-24",
+      "retrievedOn": "2026-10-25",
       "verifiedOn": null,
       "date": "2026-10-25",
       "place": "线上",
@@ -3641,7 +3577,7 @@
       "sourceUrl": "https://atcoder.jp/contests/",
       "sourceName": "AtCoder 官方赛程",
       "sourceKey": "atcoder",
-      "retrievedOn": "2026-10-24",
+      "retrievedOn": "2026-10-25",
       "verifiedOn": null,
       "date": "2026-10-30",
       "place": "线上",
@@ -3673,7 +3609,7 @@
       "sourceUrl": "https://atcoder.jp/contests/",
       "sourceName": "AtCoder 官方赛程",
       "sourceKey": "atcoder",
-      "retrievedOn": "2026-10-24",
+      "retrievedOn": "2026-10-25",
       "verifiedOn": null,
       "date": "2026-10-31",
       "place": "线上",
@@ -3705,7 +3641,7 @@
       "sourceUrl": "https://atcoder.jp/contests/",
       "sourceName": "AtCoder 官方赛程",
       "sourceKey": "atcoder",
-      "retrievedOn": "2026-10-24",
+      "retrievedOn": "2026-10-25",
       "verifiedOn": null,
       "date": "2026-11-07",
       "place": "线上",
@@ -3737,7 +3673,7 @@
       "sourceUrl": "https://atcoder.jp/contests/",
       "sourceName": "AtCoder 官方赛程",
       "sourceKey": "atcoder",
-      "retrievedOn": "2026-10-24",
+      "retrievedOn": "2026-10-25",
       "verifiedOn": null,
       "date": "2026-11-08",
       "place": "线上",
@@ -3769,7 +3705,7 @@
       "sourceUrl": "https://atcoder.jp/contests/",
       "sourceName": "AtCoder 官方赛程",
       "sourceKey": "atcoder",
-      "retrievedOn": "2026-10-24",
+      "retrievedOn": "2026-10-25",
       "verifiedOn": null,
       "date": "2026-11-14",
       "place": "线上",
