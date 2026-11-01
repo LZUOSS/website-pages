@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-31T13:36:57+08:00",
+  "syncedAt": "2026-11-01T13:58:44+08:00",
   "upstreamCommit": "8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf",
   "upstreamUpdatedAt": "2026-10-14T11:59:57Z",
   "upstreamUrl": "https://github.com/hust-open-atom-club/open-source-deadlines",
@@ -8,15 +8,15 @@
       "key": "codeforces",
       "url": "https://codeforces.com/api/contest.list?gym=false",
       "status": "ok",
-      "count": 8,
-      "fetchedAt": "2026-10-31T13:36:56+08:00"
+      "count": 7,
+      "fetchedAt": "2026-11-01T13:58:44+08:00"
     },
     {
       "key": "atcoder",
       "url": "https://atcoder.jp/contests/",
       "status": "ok",
-      "count": 6,
-      "fetchedAt": "2026-10-31T13:36:57+08:00"
+      "count": 5,
+      "fetchedAt": "2026-11-01T13:58:44+08:00"
     }
   ],
   "items": [
@@ -3385,19 +3385,19 @@
       "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
       "sourceName": "Codeforces 官方 API",
       "sourceKey": "codeforces",
-      "retrievedOn": "2026-10-31",
+      "retrievedOn": "2026-11-01",
       "verifiedOn": null,
-      "date": "2026-11-27",
+      "date": "2026-12-08",
       "place": "线上",
       "timezone": "UTC",
       "timeline": [
         {
-          "at": "2026-11-27T14:35:00+00:00",
+          "at": "2026-12-08T14:35:00+00:00",
           "dayOnly": false,
           "comment": "比赛开始"
         },
         {
-          "at": "2026-11-27T17:05:00+00:00",
+          "at": "2026-12-08T17:05:00+00:00",
           "dayOnly": false,
           "comment": "比赛结束"
         }
@@ -3417,19 +3417,19 @@
       "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
       "sourceName": "Codeforces 官方 API",
       "sourceKey": "codeforces",
-      "retrievedOn": "2026-10-31",
+      "retrievedOn": "2026-11-01",
       "verifiedOn": null,
-      "date": "2026-11-20",
+      "date": "2026-12-01",
       "place": "线上",
       "timezone": "UTC",
       "timeline": [
         {
-          "at": "2026-11-20T14:30:00+00:00",
+          "at": "2026-12-01T14:30:00+00:00",
           "dayOnly": false,
           "comment": "比赛开始"
         },
         {
-          "at": "2026-11-27T14:30:00+00:00",
+          "at": "2026-12-08T14:30:00+00:00",
           "dayOnly": false,
           "comment": "比赛结束"
         }
@@ -3449,7 +3449,7 @@
       "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
       "sourceName": "Codeforces 官方 API",
       "sourceKey": "codeforces",
-      "retrievedOn": "2026-10-31",
+      "retrievedOn": "2026-11-01",
       "verifiedOn": null,
       "date": "2026-11-15",
       "place": "线上",
@@ -3481,7 +3481,7 @@
       "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
       "sourceName": "Codeforces 官方 API",
       "sourceKey": "codeforces",
-      "retrievedOn": "2026-10-31",
+      "retrievedOn": "2026-11-01",
       "verifiedOn": null,
       "date": "2026-11-07",
       "place": "线上",
@@ -3513,7 +3513,7 @@
       "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
       "sourceName": "Codeforces 官方 API",
       "sourceKey": "codeforces",
-      "retrievedOn": "2026-10-31",
+      "retrievedOn": "2026-11-01",
       "verifiedOn": null,
       "date": "2026-11-07",
       "place": "线上",
@@ -3545,7 +3545,7 @@
       "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
       "sourceName": "Codeforces 官方 API",
       "sourceKey": "codeforces",
-      "retrievedOn": "2026-10-31",
+      "retrievedOn": "2026-11-01",
       "verifiedOn": null,
       "date": "2026-11-06",
       "place": "线上",
@@ -3577,7 +3577,7 @@
       "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
       "sourceName": "Codeforces 官方 API",
       "sourceKey": "codeforces",
-      "retrievedOn": "2026-10-31",
+      "retrievedOn": "2026-11-01",
       "verifiedOn": null,
       "date": "2026-11-04",
       "place": "线上",
@@ -3590,70 +3590,6 @@
         },
         {
           "at": "2026-11-04T16:35:00+00:00",
-          "dayOnly": false,
-          "comment": "比赛结束"
-        }
-      ]
-    },
-    {
-      "id": "codeforces-2278",
-      "title": "Codeforces Round 1131 (Div. 3)",
-      "description": "Codeforces 官方排期的线上算法赛。参赛范围、Rated 规则及报名要求请查看对应比赛公告。",
-      "category": "competition",
-      "tags": [
-        "算法",
-        "Codeforces",
-        "线上"
-      ],
-      "link": "https://codeforces.com/contest/2278",
-      "sourceUrl": "https://codeforces.com/api/contest.list?gym=false",
-      "sourceName": "Codeforces 官方 API",
-      "sourceKey": "codeforces",
-      "retrievedOn": "2026-10-31",
-      "verifiedOn": null,
-      "date": "2026-10-31",
-      "place": "线上",
-      "timezone": "UTC",
-      "timeline": [
-        {
-          "at": "2026-10-31T14:35:00+00:00",
-          "dayOnly": false,
-          "comment": "比赛开始"
-        },
-        {
-          "at": "2026-10-31T16:50:00+00:00",
-          "dayOnly": false,
-          "comment": "比赛结束"
-        }
-      ]
-    },
-    {
-      "id": "atcoder-abc482",
-      "title": "AtCoder Beginner Contest 482",
-      "description": "AtCoder 官方赛程中的线上编程比赛。时长 1 小时 40 分钟；Rated 范围：- 1999。资格及生成式 AI 使用规则以比赛页面为准。",
-      "category": "competition",
-      "tags": [
-        "算法",
-        "AtCoder",
-        "线上"
-      ],
-      "link": "https://atcoder.jp/contests/abc482",
-      "sourceUrl": "https://atcoder.jp/contests/",
-      "sourceName": "AtCoder 官方赛程",
-      "sourceKey": "atcoder",
-      "retrievedOn": "2026-10-31",
-      "verifiedOn": null,
-      "date": "2026-10-31",
-      "place": "线上",
-      "timezone": "Asia/Tokyo",
-      "timeline": [
-        {
-          "at": "2026-10-31T21:00:00+09:00",
-          "dayOnly": false,
-          "comment": "比赛开始"
-        },
-        {
-          "at": "2026-10-31T22:40:00+09:00",
           "dayOnly": false,
           "comment": "比赛结束"
         }
@@ -3673,7 +3609,7 @@
       "sourceUrl": "https://atcoder.jp/contests/",
       "sourceName": "AtCoder 官方赛程",
       "sourceKey": "atcoder",
-      "retrievedOn": "2026-10-31",
+      "retrievedOn": "2026-11-01",
       "verifiedOn": null,
       "date": "2026-11-07",
       "place": "线上",
@@ -3694,7 +3630,7 @@
     {
       "id": "atcoder-agc079",
       "title": "AtCoder Grand Contest 079",
-      "description": "AtCoder 官方赛程中的线上编程比赛。时长 3 小时 0 分钟；Rated 范围：2000 -。资格及生成式 AI 使用规则以比赛页面为准。",
+      "description": "AtCoder 官方赛程中的线上编程比赛。时长 3 小时 30 分钟；Rated 范围：2000 -。资格及生成式 AI 使用规则以比赛页面为准。",
       "category": "competition",
       "tags": [
         "算法",
@@ -3705,7 +3641,7 @@
       "sourceUrl": "https://atcoder.jp/contests/",
       "sourceName": "AtCoder 官方赛程",
       "sourceKey": "atcoder",
-      "retrievedOn": "2026-10-31",
+      "retrievedOn": "2026-11-01",
       "verifiedOn": null,
       "date": "2026-11-08",
       "place": "线上",
@@ -3717,7 +3653,7 @@
           "comment": "比赛开始"
         },
         {
-          "at": "2026-11-09T00:00:00+09:00",
+          "at": "2026-11-09T00:30:00+09:00",
           "dayOnly": false,
           "comment": "比赛结束"
         }
@@ -3737,7 +3673,7 @@
       "sourceUrl": "https://atcoder.jp/contests/",
       "sourceName": "AtCoder 官方赛程",
       "sourceKey": "atcoder",
-      "retrievedOn": "2026-10-31",
+      "retrievedOn": "2026-11-01",
       "verifiedOn": null,
       "date": "2026-11-14",
       "place": "线上",
@@ -3769,7 +3705,7 @@
       "sourceUrl": "https://atcoder.jp/contests/",
       "sourceName": "AtCoder 官方赛程",
       "sourceKey": "atcoder",
-      "retrievedOn": "2026-10-31",
+      "retrievedOn": "2026-11-01",
       "verifiedOn": null,
       "date": "2026-11-21",
       "place": "线上",
@@ -3801,7 +3737,7 @@
       "sourceUrl": "https://atcoder.jp/contests/",
       "sourceName": "AtCoder 官方赛程",
       "sourceKey": "atcoder",
-      "retrievedOn": "2026-10-31",
+      "retrievedOn": "2026-11-01",
       "verifiedOn": null,
       "date": "2026-11-22",
       "place": "线上",
