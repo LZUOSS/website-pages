@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-02T13:58:22+08:00",
+  "syncedAt": "2026-11-02T17:33:05+08:00",
   "upstreamCommit": "8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf",
   "upstreamUpdatedAt": "2026-10-14T11:59:57Z",
   "upstreamUrl": "https://github.com/hust-open-atom-club/open-source-deadlines",
@@ -9,14 +9,14 @@
       "url": "https://codeforces.com/api/contest.list?gym=false",
       "status": "ok",
       "count": 7,
-      "fetchedAt": "2026-11-02T13:58:22+08:00"
+      "fetchedAt": "2026-11-02T17:33:04+08:00"
     },
     {
       "key": "atcoder",
       "url": "https://atcoder.jp/contests/",
       "status": "ok",
-      "count": 5,
-      "fetchedAt": "2026-11-02T13:58:22+08:00"
+      "count": 6,
+      "fetchedAt": "2026-11-02T17:33:05+08:00"
     }
   ],
   "items": [
@@ -3750,6 +3750,38 @@
         },
         {
           "at": "2026-11-22T23:30:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛结束"
+        }
+      ]
+    },
+    {
+      "id": "atcoder-abc486",
+      "title": "AtCoder Beginner Contest 486",
+      "description": "AtCoder 官方赛程中的线上编程比赛。时长 1 小时 40 分钟；Rated 范围：- 1999。资格及生成式 AI 使用规则以比赛页面为准。",
+      "category": "competition",
+      "tags": [
+        "算法",
+        "AtCoder",
+        "线上"
+      ],
+      "link": "https://atcoder.jp/contests/abc486",
+      "sourceUrl": "https://atcoder.jp/contests/",
+      "sourceName": "AtCoder 官方赛程",
+      "sourceKey": "atcoder",
+      "retrievedOn": "2026-11-02",
+      "verifiedOn": null,
+      "date": "2026-11-28",
+      "place": "线上",
+      "timezone": "Asia/Tokyo",
+      "timeline": [
+        {
+          "at": "2026-11-28T21:00:00+09:00",
+          "dayOnly": false,
+          "comment": "比赛开始"
+        },
+        {
+          "at": "2026-11-28T22:40:00+09:00",
           "dayOnly": false,
           "comment": "比赛结束"
         }
