@@ -1,6 +1,40 @@
 {
   "title": "兰州大学开源社区日历",
   "timezone": "Asia/Shanghai",
-  "updatedAt": "2026-10-17T00:00:00+08:00",
-  "events": []
+  "updatedAt": "2026-11-02T00:00:00+08:00",
+  "events": [
+    {
+      "id": "meeting-2026-10-29",
+      "title": "社区例会：Linux 入门以及 OpenHarmony",
+      "start": "2026-10-29",
+      "end": "2026-10-30",
+      "allDay": true,
+      "timeTbd": true,
+      "description": "面向对象：全校同学。具体时间和地点待定，以社区后续通知为准。",
+      "category": "社区例会",
+      "url": "https://docs.qq.com/sheet/DVnVITURnQ0d0T1V6?tab=BB08J2"
+    },
+    {
+      "id": "meeting-2026-11-05",
+      "title": "社区例会：利用 Cloudflare 免费资源建立自己的邮局",
+      "start": "2026-11-05",
+      "end": "2026-11-06",
+      "allDay": true,
+      "timeTbd": true,
+      "description": "面向对象：社区成员。具体时间和地点待定，以社区后续通知为准。",
+      "category": "社区例会",
+      "url": "https://docs.qq.com/sheet/DVnVITURnQ0d0T1V6?tab=BB08J2"
+    },
+    {
+      "id": "meeting-2026-11-12",
+      "title": "社区例会：关于内存和硬盘的硬件知识分享",
+      "start": "2026-11-12",
+      "end": "2026-11-13",
+      "allDay": true,
+      "timeTbd": true,
+      "description": "面向对象：社区成员。具体时间和地点待定，以社区后续通知为准。",
+      "category": "社区例会",
+      "url": "https://docs.qq.com/sheet/DVnVITURnQ0d0T1V6?tab=BB08J2"
+    }
+  ]
 }

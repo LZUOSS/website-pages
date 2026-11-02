@@ -30,7 +30,7 @@ function render() {
   $('cal-count').textContent=`${matching.length} 项`;
   $('cal-events').innerHTML=matching.length ? matching.map(e=>{
     const url=/^https?:\/\//.test(e.url||'')?e.url:null;
-    const time=e.allDay?`${displayDay(e.start)} · 全天${e.end>new Date(new Date(e.start+'T00:00:00Z').getTime()+86400000).toISOString().slice(0,10)?' / 多日活动':''}`:`${displayTime(e.start)} — ${displayTime(e.end)}`;
+    const time=e.allDay?`${displayDay(e.start)} · ${e.timeTbd?'具体时间待定':'全天'}${e.end>new Date(new Date(e.start+'T00:00:00Z').getTime()+86400000).toISOString().slice(0,10)?' / 多日活动':''}`:`${displayTime(e.start)} — ${displayTime(e.end)}`;
     return `<article class="calendar-event-detail"><span class="badge">${escape(e.category||'社区活动')}</span><h3>${escape(e.title)}</h3><p class="calendar-event-time">${escape(time)}</p>${e.location?`<p>地点：${escape(e.location)}</p>`:''}${e.description?`<p class="calendar-description">${escape(e.description)}</p>`:''}${url?`<a href="${escape(url)}" target="_blank" rel="noopener noreferrer">查看活动公告 ↗</a>`:''}</article>`;
   }).join('') : `<div class="calendar-empty"><span aria-hidden="true">＋</span><div><h3>${events.length?'这段时间暂时没有活动':'暂无已公布的社区活动'}</h3><p>${events.length?'换个日期看看，或订阅日历等待新安排。':'新的相聚正在酝酿。排期确认后，会在这里与大家见面。'}</p></div></div>`;
 }
