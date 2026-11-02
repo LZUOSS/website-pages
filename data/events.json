@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-02T17:33:05+08:00",
+  "syncedAt": "2026-11-02T17:34:14+08:00",
   "upstreamCommit": "8f30d66ac6fb99d5064aebb7d3a1f4ed3846a3cf",
   "upstreamUpdatedAt": "2026-10-14T11:59:57Z",
   "upstreamUrl": "https://github.com/hust-open-atom-club/open-source-deadlines",
@@ -9,14 +9,14 @@
       "url": "https://codeforces.com/api/contest.list?gym=false",
       "status": "ok",
       "count": 7,
-      "fetchedAt": "2026-11-02T17:33:04+08:00"
+      "fetchedAt": "2026-11-02T17:34:13+08:00"
     },
     {
       "key": "atcoder",
       "url": "https://atcoder.jp/contests/",
       "status": "ok",
       "count": 6,
-      "fetchedAt": "2026-11-02T17:33:05+08:00"
+      "fetchedAt": "2026-11-02T17:34:13+08:00"
     }
   ],
   "items": [
