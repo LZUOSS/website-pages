@@ -8,12 +8,17 @@ from pathlib import Path
 from datetime import datetime, timedelta, time
 from zoneinfo import ZoneInfo
 from urllib.request import Request, urlopen
+from urllib.parse import urlsplit
 import yaml
 from contest_sources import codeforces, atcoder
 ROOT = Path(__file__).resolve().parent.parent
 REPO = 'hust-open-atom-club/open-source-deadlines'
 def get(url):
-    with urlopen(Request(url, headers={'User-Agent':'LZUOSS-events-sync','Accept':'application/vnd.github+json'}), timeout=30) as r:
+    request = Request(url, headers={'User-Agent':'LZUOSS-events-sync','Accept':'application/vnd.github+json'})
+    token = os.environ.get('GITHUB_TOKEN')
+    if token and urlsplit(url).scheme == 'https' and urlsplit(url).netloc == 'api.github.com':
+        request.add_unredirected_header('Authorization', 'Bearer ' + token)
+    with urlopen(request, timeout=30) as r:
         return r.read().decode('utf-8')
 def normalize(point, zone):
     raw = str(point.get('date') or point.get('deadline') or '')
